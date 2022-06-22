@@ -1,0 +1,1596 @@
+INFO  02:43:43 Application started. Press Ctrl+C to shut down.
+INFO  02:43:43 Hosting environment: Development
+INFO  02:43:43 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\CustomerMicroService
+INFO  02:44:11 Customer details  has been successfully retrieved
+INFO  02:49:46 Customer details  has been successfully retrieved
+INFO  02:50:46 Customer has been successfully created
+INFO  03:02:05 Application started. Press Ctrl+C to shut down.
+INFO  03:02:05 Hosting environment: Development
+INFO  03:02:05 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\CustomerMicroService
+INFO  03:02:35 Customer details  has been successfully retrieved
+INFO  03:19:16 Application started. Press Ctrl+C to shut down.
+INFO  03:19:16 Hosting environment: Development
+INFO  03:19:16 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\CustomerMicroService
+INFO  03:19:52 Customer details  has been successfully retrieved
+FATAL 05:22:09 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass29_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IEnumerable`1 listenOptions, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+FATAL 05:41:50 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass29_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IEnumerable`1 listenOptions, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+FATAL 05:46:17 Unable to start Kestrel.
+System.IO.IOException: Failed to bind to address http://127.0.0.1:5000: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.<Bind>g__BindSocket|13_0(<>c__DisplayClass13_0& )
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass29_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IEnumerable`1 listenOptions, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+INFO  05:47:52 Now listening on: http://localhost:5004
+INFO  05:47:52 Application started. Press Ctrl+C to shut down.
+INFO  05:47:52 Hosting environment: Development
+INFO  05:47:52 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\CustomerMicroService
+INFO  05:53:19 Now listening on: http://localhost:5004
+INFO  05:53:19 Application started. Press Ctrl+C to shut down.
+INFO  05:53:19 Hosting environment: Development
+INFO  05:53:19 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\CustomerMicroService
+INFO  08:50:06 Now listening on: http://localhost:5004
+INFO  08:50:06 Application started. Press Ctrl+C to shut down.
+INFO  08:50:06 Hosting environment: Development
+INFO  08:50:06 Content root path: C:\Users\PRATIK\source\repos\Banking Project\Retail-Banking-System\CustomerMicroService
+INFO  11:32:02 Now listening on: http://localhost:5004
+INFO  11:32:02 Application started. Press Ctrl+C to shut down.
+INFO  11:32:02 Hosting environment: Development
+INFO  11:32:02 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  11:42:08 Now listening on: http://localhost:5004
+INFO  11:42:08 Application started. Press Ctrl+C to shut down.
+INFO  11:42:08 Hosting environment: Development
+INFO  11:42:08 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+<<<<<<< Updated upstream
+INFO  12:02:55 Now listening on: http://localhost:5004
+INFO  12:02:55 Application started. Press Ctrl+C to shut down.
+INFO  12:02:55 Hosting environment: Development
+INFO  12:02:55 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+=======
+INFO  12:35:54 Now listening on: http://localhost:5004
+INFO  12:35:54 Application started. Press Ctrl+C to shut down.
+INFO  12:35:54 Hosting environment: Development
+INFO  12:35:54 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:43:02 Now listening on: http://localhost:5004
+INFO  12:43:02 Application started. Press Ctrl+C to shut down.
+INFO  12:43:02 Hosting environment: Development
+INFO  12:43:02 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:50:48 Now listening on: http://localhost:5004
+INFO  12:50:48 Application started. Press Ctrl+C to shut down.
+INFO  12:50:48 Hosting environment: Development
+INFO  12:50:48 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:53:04 Now listening on: http://localhost:5004
+INFO  12:53:04 Application started. Press Ctrl+C to shut down.
+INFO  12:53:04 Hosting environment: Development
+INFO  12:53:04 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:54:15 Now listening on: http://localhost:5004
+INFO  12:54:15 Application started. Press Ctrl+C to shut down.
+INFO  12:54:15 Hosting environment: Development
+INFO  12:54:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:59:50 Now listening on: http://localhost:5004
+INFO  12:59:50 Application started. Press Ctrl+C to shut down.
+INFO  12:59:50 Hosting environment: Development
+INFO  12:59:50 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:59:23 Now listening on: http://localhost:5004
+INFO  01:59:23 Application started. Press Ctrl+C to shut down.
+INFO  01:59:23 Hosting environment: Development
+INFO  01:59:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:47:37 Now listening on: http://localhost:5004
+INFO  02:47:37 Application started. Press Ctrl+C to shut down.
+INFO  02:47:37 Hosting environment: Development
+INFO  02:47:37 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:49:17 Now listening on: http://localhost:5004
+INFO  02:49:17 Application started. Press Ctrl+C to shut down.
+INFO  02:49:17 Hosting environment: Development
+INFO  02:49:17 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:50:26 Now listening on: http://localhost:5004
+INFO  02:50:26 Application started. Press Ctrl+C to shut down.
+INFO  02:50:26 Hosting environment: Development
+INFO  02:50:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:52:13 Now listening on: http://localhost:5004
+INFO  02:52:13 Application started. Press Ctrl+C to shut down.
+INFO  02:52:14 Hosting environment: Development
+INFO  02:52:14 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:07:22 Now listening on: http://localhost:5004
+INFO  03:07:22 Application started. Press Ctrl+C to shut down.
+INFO  03:07:22 Hosting environment: Development
+INFO  03:07:22 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:17:56 Now listening on: http://localhost:5004
+INFO  03:17:56 Application started. Press Ctrl+C to shut down.
+INFO  03:17:56 Hosting environment: Development
+INFO  03:17:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:21:49 Now listening on: http://localhost:5004
+INFO  03:21:49 Application started. Press Ctrl+C to shut down.
+INFO  03:21:49 Hosting environment: Development
+INFO  03:21:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:23:47 Now listening on: http://localhost:5004
+INFO  03:23:47 Application started. Press Ctrl+C to shut down.
+INFO  03:23:47 Hosting environment: Development
+INFO  03:23:47 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:25:59 Now listening on: http://localhost:5004
+INFO  03:25:59 Application started. Press Ctrl+C to shut down.
+INFO  03:25:59 Hosting environment: Development
+INFO  03:25:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+>>>>>>> Stashed changes
+INFO  03:48:25 Now listening on: http://localhost:5004
+INFO  03:48:25 Application started. Press Ctrl+C to shut down.
+INFO  03:48:25 Hosting environment: Development
+INFO  03:48:25 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:49:59 Now listening on: http://localhost:5004
+INFO  03:49:59 Application started. Press Ctrl+C to shut down.
+INFO  03:49:59 Hosting environment: Development
+INFO  03:49:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:22:00 Now listening on: http://localhost:5004
+INFO  02:22:00 Application started. Press Ctrl+C to shut down.
+INFO  02:22:00 Hosting environment: Development
+INFO  02:22:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:26:56 Now listening on: http://localhost:5004
+INFO  02:26:56 Application started. Press Ctrl+C to shut down.
+INFO  02:26:57 Hosting environment: Development
+INFO  02:26:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:32:01 Now listening on: http://localhost:5004
+INFO  02:32:01 Application started. Press Ctrl+C to shut down.
+INFO  02:32:01 Hosting environment: Development
+INFO  02:32:01 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  02:32:33 User send some invalid customer id
+WARN  02:33:33 User send some invalid customer id
+INFO  02:41:33 Now listening on: http://localhost:5004
+INFO  02:41:33 Application started. Press Ctrl+C to shut down.
+INFO  02:41:33 Hosting environment: Development
+INFO  02:41:33 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:51:44 Now listening on: http://localhost:5004
+INFO  02:51:44 Application started. Press Ctrl+C to shut down.
+INFO  02:51:44 Hosting environment: Development
+INFO  02:51:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:53:36 Now listening on: http://localhost:5004
+INFO  02:53:36 Application started. Press Ctrl+C to shut down.
+INFO  02:53:36 Hosting environment: Development
+INFO  02:53:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  02:54:03 User send some invalid customer id
+INFO  02:54:52 Now listening on: http://localhost:5004
+INFO  02:54:52 Application started. Press Ctrl+C to shut down.
+INFO  02:54:53 Hosting environment: Development
+INFO  02:54:53 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+ERROR 02:55:41 Failed executing DbCommand (626ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 02:55:41 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:509e5882-d36d-4cb4-b8a7-6c7708a339f7
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:509e5882-d36d-4cb4-b8a7-6c7708a339f7
+Error Number:208,State:1,Class:16
+ERROR 02:55:42 Invalid object name 'Customers'.
+ERROR 02:59:25 Failed executing DbCommand (16,847ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 02:59:25 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+ClientConnectionId:509e5882-d36d-4cb4-b8a7-6c7708a339f7
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The specified network name is no longer available.)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+ClientConnectionId:509e5882-d36d-4cb4-b8a7-6c7708a339f7
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ERROR 02:59:25 An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+INFO  03:03:21 Now listening on: http://localhost:5004
+INFO  03:03:21 Application started. Press Ctrl+C to shut down.
+INFO  03:03:21 Hosting environment: Development
+INFO  03:03:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+ERROR 03:04:27 Failed executing DbCommand (599ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:04:27 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+ERROR 03:04:27 Invalid object name 'Customers'.
+ERROR 03:04:47 Failed executing DbCommand (385ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:04:47 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+ERROR 03:04:47 Invalid object name 'Customers'.
+ERROR 03:05:38 Failed executing DbCommand (342ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:05:38 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+ERROR 03:05:38 Invalid object name 'Customers'.
+ERROR 03:06:31 Failed executing DbCommand (354ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:06:31 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+ERROR 03:06:31 Invalid object name 'Customers'.
+ERROR 03:07:00 Failed executing DbCommand (344ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:07:00 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:d40c6442-5808-4fcd-846d-756c0c6a50d5
+Error Number:208,State:1,Class:16
+INFO  03:11:43 Now listening on: http://localhost:5004
+INFO  03:11:43 Application started. Press Ctrl+C to shut down.
+INFO  03:11:43 Hosting environment: Development
+INFO  03:11:43 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+ERROR 03:12:07 Failed executing DbCommand (634ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[CustomerId], [c].[Address], [c].[DOB], [c].[MobileNo], [c].[Name], [c].[PAN], [c].[ZIPCode], [c].[gender]
+FROM [Customers] AS [c]
+WHERE [c].[CustomerId] = @__p_0
+ERROR 03:12:07 An exception occurred while iterating over the results of a query for context type 'CustomerMicroService.CustomeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:0215c9c6-060c-4ee0-836c-eeaa99d86f22
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'Customers'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:0215c9c6-060c-4ee0-836c-eeaa99d86f22
+Error Number:208,State:1,Class:16
+ERROR 03:12:14 Invalid object name 'Customers'.
+INFO  03:16:06 Now listening on: http://localhost:5004
+INFO  03:16:06 Application started. Press Ctrl+C to shut down.
+INFO  03:16:06 Hosting environment: Development
+INFO  03:16:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:16:35 Customer details  has been successfully retrieved
+INFO  03:18:35 Now listening on: http://localhost:5004
+INFO  03:18:35 Application started. Press Ctrl+C to shut down.
+INFO  03:18:35 Hosting environment: Development
+INFO  03:18:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:19:51 Now listening on: http://localhost:5004
+INFO  03:19:51 Application started. Press Ctrl+C to shut down.
+INFO  03:19:51 Hosting environment: Development
+INFO  03:19:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:21:55 Now listening on: http://localhost:5004
+INFO  03:21:56 Application started. Press Ctrl+C to shut down.
+INFO  03:21:56 Hosting environment: Development
+INFO  03:21:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:23:18 Now listening on: http://localhost:5004
+INFO  03:23:18 Application started. Press Ctrl+C to shut down.
+INFO  03:23:18 Hosting environment: Development
+INFO  03:23:19 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:25:16 Now listening on: http://localhost:5004
+INFO  03:25:16 Application started. Press Ctrl+C to shut down.
+INFO  03:25:16 Hosting environment: Development
+INFO  03:25:16 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  03:25:45 User send some invalid customer id
+INFO  03:34:40 Now listening on: http://localhost:5004
+INFO  03:34:40 Application started. Press Ctrl+C to shut down.
+INFO  03:34:40 Hosting environment: Development
+INFO  03:34:40 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:35:35 Customer details  has been successfully retrieved
+INFO  03:55:17 Now listening on: http://localhost:5004
+INFO  03:55:17 Application started. Press Ctrl+C to shut down.
+INFO  03:55:17 Hosting environment: Development
+INFO  03:55:17 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:55:59 Customer details  has been successfully retrieved
+INFO  04:16:11 Customer details  has been successfully retrieved
+INFO  04:17:43 Customer details  has been successfully retrieved
+INFO  04:18:49 Customer details  has been successfully retrieved
+INFO  04:19:43 Customer details  has been successfully retrieved
+INFO  04:21:11 Customer details  has been successfully retrieved
+INFO  04:21:33 Customer details  has been successfully retrieved
+INFO  04:24:11 Customer details  has been successfully retrieved
+INFO  04:25:17 Customer details  has been successfully retrieved
+INFO  04:26:42 Customer details  has been successfully retrieved
+INFO  04:28:14 Customer details  has been successfully retrieved
+INFO  04:29:21 Customer details  has been successfully retrieved
+INFO  04:29:59 Customer details  has been successfully retrieved
+INFO  04:30:30 Customer details  has been successfully retrieved
+INFO  04:30:47 Customer details  has been successfully retrieved
+INFO  04:35:11 Customer details  has been successfully retrieved
+INFO  04:36:26 Customer details  has been successfully retrieved
+INFO  04:39:19 Customer details  has been successfully retrieved
+INFO  04:41:15 Customer details  has been successfully retrieved
+INFO  04:43:26 Customer details  has been successfully retrieved
+INFO  04:45:39 Customer details  has been successfully retrieved
+INFO  04:46:42 Customer details  has been successfully retrieved
+INFO  04:47:01 Customer details  has been successfully retrieved
+INFO  04:50:01 Customer details  has been successfully retrieved
+INFO  04:50:18 Customer details  has been successfully retrieved
+INFO  04:50:27 Customer details  has been successfully retrieved
+INFO  04:51:16 Customer details  has been successfully retrieved
+INFO  04:51:58 Customer details  has been successfully retrieved
+INFO  04:52:21 Customer details  has been successfully retrieved
+INFO  04:53:05 Customer details  has been successfully retrieved
+INFO  04:53:46 Customer details  has been successfully retrieved
+INFO  04:55:04 Customer details  has been successfully retrieved
+INFO  05:22:49 Now listening on: http://localhost:5004
+INFO  05:22:49 Application started. Press Ctrl+C to shut down.
+INFO  05:22:49 Hosting environment: Development
+INFO  05:22:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:24:04 Customer details  has been successfully retrieved
+INFO  05:25:02 Customer details  has been successfully retrieved
+INFO  05:25:59 Customer details  has been successfully retrieved
+INFO  05:27:58 Now listening on: http://localhost:5004
+INFO  05:27:59 Application started. Press Ctrl+C to shut down.
+INFO  05:27:59 Hosting environment: Development
+INFO  05:27:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:35:08 Now listening on: http://localhost:5004
+INFO  05:35:08 Application started. Press Ctrl+C to shut down.
+INFO  05:35:08 Hosting environment: Development
+INFO  05:35:08 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:39:39 Customer details  has been successfully retrieved
+INFO  05:40:24 Customer details  has been successfully retrieved
+INFO  06:09:27 Now listening on: http://localhost:5004
+INFO  06:09:27 Application started. Press Ctrl+C to shut down.
+INFO  06:09:27 Hosting environment: Development
+INFO  06:09:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  06:09:51 Customer details  has been successfully retrieved
+INFO  06:10:34 Customer details  has been successfully retrieved
+INFO  07:06:45 Now listening on: http://localhost:5004
+INFO  07:06:46 Application started. Press Ctrl+C to shut down.
+INFO  07:06:46 Hosting environment: Development
+INFO  07:06:46 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:20:04 Now listening on: http://localhost:5004
+INFO  07:20:04 Application started. Press Ctrl+C to shut down.
+INFO  07:20:04 Hosting environment: Development
+INFO  07:20:04 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:22:21 Now listening on: http://localhost:5004
+INFO  07:22:21 Application started. Press Ctrl+C to shut down.
+INFO  07:22:21 Hosting environment: Development
+INFO  07:22:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:25:22 Now listening on: http://localhost:5004
+INFO  07:25:22 Application started. Press Ctrl+C to shut down.
+INFO  07:25:22 Hosting environment: Development
+INFO  07:25:22 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:25:48 Customer details  has been successfully retrieved
+INFO  07:29:29 Now listening on: http://localhost:5004
+INFO  07:29:29 Application started. Press Ctrl+C to shut down.
+INFO  07:29:29 Hosting environment: Development
+INFO  07:29:29 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:34:34 Now listening on: http://localhost:5004
+INFO  07:34:34 Application started. Press Ctrl+C to shut down.
+INFO  07:34:34 Hosting environment: Development
+INFO  07:34:34 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:37:28 Customer details  has been successfully retrieved
+INFO  07:39:23 Now listening on: http://localhost:5004
+INFO  07:39:23 Application started. Press Ctrl+C to shut down.
+INFO  07:39:23 Hosting environment: Development
+INFO  07:39:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  07:39:47 Customer details  has been successfully retrieved
+INFO  07:41:36 Customer details  has been successfully retrieved
+INFO  08:01:40 Now listening on: http://localhost:5004
+INFO  08:01:40 Application started. Press Ctrl+C to shut down.
+INFO  08:01:40 Hosting environment: Development
+INFO  08:01:40 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:02:04 Customer details  has been successfully retrieved
+INFO  08:02:55 Now listening on: http://localhost:5004
+INFO  08:02:55 Application started. Press Ctrl+C to shut down.
+INFO  08:02:55 Hosting environment: Development
+INFO  08:02:55 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:03:34 Customer details  has been successfully retrieved
+INFO  08:03:38 Customer details  has been successfully retrieved
+INFO  08:05:27 Now listening on: http://localhost:5004
+INFO  08:05:27 Application started. Press Ctrl+C to shut down.
+INFO  08:05:27 Hosting environment: Development
+INFO  08:05:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:05:41 Customer details  has been successfully retrieved
+INFO  08:06:03 Customer details  has been successfully retrieved
+INFO  08:15:28 Customer details  has been successfully retrieved
+INFO  08:16:09 Customer details  has been successfully retrieved
+INFO  08:29:35 Now listening on: http://localhost:5004
+INFO  08:29:35 Application started. Press Ctrl+C to shut down.
+INFO  08:29:35 Hosting environment: Development
+INFO  08:29:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:29:51 Customer details  has been successfully retrieved
+INFO  08:29:53 Customer details  has been successfully retrieved
+INFO  08:38:35 Now listening on: http://localhost:5004
+INFO  08:38:35 Application started. Press Ctrl+C to shut down.
+INFO  08:38:35 Hosting environment: Development
+INFO  08:38:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:38:49 Customer details  has been successfully retrieved
+INFO  08:38:50 Customer details  has been successfully retrieved
+INFO  08:39:38 Customer details  has been successfully retrieved
+INFO  08:39:56 Now listening on: http://localhost:5004
+INFO  08:39:56 Application started. Press Ctrl+C to shut down.
+INFO  08:39:56 Hosting environment: Development
+INFO  08:39:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:40:11 Customer details  has been successfully retrieved
+INFO  08:43:00 Now listening on: http://localhost:5004
+INFO  08:43:00 Application started. Press Ctrl+C to shut down.
+INFO  08:43:00 Hosting environment: Development
+INFO  08:43:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:43:13 Customer details  has been successfully retrieved
+INFO  08:48:00 Customer details  has been successfully retrieved
+INFO  08:52:25 Customer details  has been successfully retrieved
+INFO  08:53:20 Customer details  has been successfully retrieved
+INFO  08:55:21 Customer details  has been successfully retrieved
+INFO  08:56:25 Customer details  has been successfully retrieved
+INFO  08:58:17 Customer details  has been successfully retrieved
+INFO  08:59:16 Customer details  has been successfully retrieved
+INFO  09:00:29 Customer details  has been successfully retrieved
+INFO  09:00:51 Customer details  has been successfully retrieved
+INFO  09:03:12 Customer details  has been successfully retrieved
+INFO  09:04:09 Customer details  has been successfully retrieved
+INFO  09:06:48 Customer details  has been successfully retrieved
+INFO  09:07:52 Customer details  has been successfully retrieved
+INFO  09:32:43 Now listening on: http://localhost:5004
+INFO  09:32:44 Application started. Press Ctrl+C to shut down.
+INFO  09:32:45 Hosting environment: Development
+INFO  09:32:46 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:33:33 Customer details  has been successfully retrieved
+INFO  09:18:57 Now listening on: http://localhost:5004
+INFO  09:18:57 Application started. Press Ctrl+C to shut down.
+INFO  09:18:57 Hosting environment: Development
+INFO  09:18:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:19:19 Customer details  has been successfully retrieved
+INFO  09:19:20 Customer details  has been successfully retrieved
+INFO  09:21:39 Customer details  has been successfully retrieved
+INFO  09:52:01 Now listening on: http://localhost:5004
+INFO  09:52:01 Application started. Press Ctrl+C to shut down.
+INFO  09:52:01 Hosting environment: Development
+INFO  09:52:01 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:52:25 Customer details  has been successfully retrieved
+INFO  09:52:26 Customer details  has been successfully retrieved
+INFO  10:16:53 Now listening on: http://localhost:5004
+INFO  10:16:53 Application started. Press Ctrl+C to shut down.
+INFO  10:16:53 Hosting environment: Development
+INFO  10:16:53 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:17:07 Customer details  has been successfully retrieved
+INFO  10:17:09 Customer details  has been successfully retrieved
+INFO  11:11:50 Now listening on: http://localhost:5004
+INFO  11:11:50 Application started. Press Ctrl+C to shut down.
+INFO  11:11:50 Hosting environment: Development
+INFO  11:11:50 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:12:08 Customer details  has been successfully retrieved
+INFO  11:12:10 Customer details  has been successfully retrieved
+INFO  11:14:35 Now listening on: http://localhost:5004
+INFO  11:14:35 Application started. Press Ctrl+C to shut down.
+INFO  11:14:35 Hosting environment: Development
+INFO  11:14:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:15:07 Customer details  has been successfully retrieved
+INFO  11:55:57 Now listening on: http://localhost:5004
+INFO  11:55:57 Application started. Press Ctrl+C to shut down.
+INFO  11:55:57 Hosting environment: Development
+INFO  11:55:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:56:13 Customer details  has been successfully retrieved
+INFO  11:56:14 Customer details  has been successfully retrieved
+INFO  12:06:44 Now listening on: http://localhost:5004
+INFO  12:06:44 Application started. Press Ctrl+C to shut down.
+INFO  12:06:44 Hosting environment: Development
+INFO  12:06:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:07:02 Customer details  has been successfully retrieved
+INFO  12:07:03 Customer details  has been successfully retrieved
+INFO  12:13:20 Now listening on: http://localhost:5004
+INFO  12:13:20 Application started. Press Ctrl+C to shut down.
+INFO  12:13:20 Hosting environment: Development
+INFO  12:13:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:14:35 Customer details  has been successfully retrieved
+INFO  12:14:36 Customer details  has been successfully retrieved
+INFO  12:17:16 Now listening on: http://localhost:5004
+INFO  12:17:16 Application started. Press Ctrl+C to shut down.
+INFO  12:17:16 Hosting environment: Development
+INFO  12:17:16 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:17:31 Customer details  has been successfully retrieved
+INFO  12:37:51 Now listening on: http://localhost:5004
+INFO  12:37:51 Application started. Press Ctrl+C to shut down.
+INFO  12:37:51 Hosting environment: Development
+INFO  12:37:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:38:07 Customer details  has been successfully retrieved
+INFO  12:38:10 Customer details  has been successfully retrieved
+INFO  12:41:23 Now listening on: http://localhost:5004
+INFO  12:41:23 Application started. Press Ctrl+C to shut down.
+INFO  12:41:23 Hosting environment: Development
+INFO  12:41:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:41:40 Customer details  has been successfully retrieved
+INFO  12:46:13 Now listening on: http://localhost:5004
+INFO  12:46:13 Application started. Press Ctrl+C to shut down.
+INFO  12:46:13 Hosting environment: Development
+INFO  12:46:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:46:28 Customer details  has been successfully retrieved
+INFO  12:46:30 Customer details  has been successfully retrieved
+INFO  12:52:09 Now listening on: http://localhost:5004
+INFO  12:52:09 Application started. Press Ctrl+C to shut down.
+INFO  12:52:09 Hosting environment: Development
+INFO  12:52:09 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:52:28 Customer details  has been successfully retrieved
+INFO  12:52:32 Customer details  has been successfully retrieved
+INFO  01:05:14 Now listening on: http://localhost:5004
+INFO  01:05:14 Application started. Press Ctrl+C to shut down.
+INFO  01:05:15 Hosting environment: Development
+INFO  01:05:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:05:29 Customer details  has been successfully retrieved
+INFO  01:05:30 Customer details  has been successfully retrieved
+INFO  01:09:00 Now listening on: http://localhost:5004
+INFO  01:09:00 Application started. Press Ctrl+C to shut down.
+INFO  01:09:00 Hosting environment: Development
+INFO  01:09:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:09:23 Customer details  has been successfully retrieved
+INFO  01:09:25 Customer details  has been successfully retrieved
+INFO  02:28:27 Now listening on: http://localhost:5004
+INFO  02:28:28 Application started. Press Ctrl+C to shut down.
+INFO  02:28:29 Hosting environment: Development
+INFO  02:28:30 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:52:46 Now listening on: http://localhost:5004
+INFO  02:52:46 Application started. Press Ctrl+C to shut down.
+INFO  02:52:46 Hosting environment: Development
+INFO  02:52:46 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:53:10 Customer details  has been successfully retrieved
+INFO  02:53:11 Customer details  has been successfully retrieved
+INFO  03:35:20 Now listening on: http://localhost:5004
+INFO  03:35:20 Application started. Press Ctrl+C to shut down.
+INFO  03:35:20 Hosting environment: Development
+INFO  03:35:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:35:36 Customer details  has been successfully retrieved
+INFO  03:35:38 Customer details  has been successfully retrieved
+INFO  03:46:13 Now listening on: http://localhost:5004
+INFO  03:46:13 Application started. Press Ctrl+C to shut down.
+INFO  03:46:13 Hosting environment: Development
+INFO  03:46:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:46:29 Customer details  has been successfully retrieved
+INFO  03:46:30 Customer details  has been successfully retrieved
+<<<<<<< Updated upstream
+INFO  05:23:48 Now listening on: http://localhost:5004
+INFO  05:23:48 Application started. Press Ctrl+C to shut down.
+INFO  05:23:48 Hosting environment: Development
+INFO  05:23:48 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  05:38:26 Now listening on: http://localhost:5004
+INFO  05:38:26 Application started. Press Ctrl+C to shut down.
+INFO  05:38:26 Hosting environment: Development
+INFO  05:38:26 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  05:43:28 Now listening on: http://localhost:5004
+INFO  05:43:28 Application started. Press Ctrl+C to shut down.
+INFO  05:43:28 Hosting environment: Development
+INFO  05:43:28 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  07:28:54 Now listening on: http://localhost:5004
+INFO  07:28:54 Application started. Press Ctrl+C to shut down.
+INFO  07:28:55 Hosting environment: Development
+INFO  07:28:55 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  07:45:42 Now listening on: http://localhost:5004
+INFO  07:45:43 Application started. Press Ctrl+C to shut down.
+INFO  07:45:43 Hosting environment: Development
+INFO  07:45:43 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  07:49:33 Now listening on: http://localhost:5004
+INFO  07:49:33 Application started. Press Ctrl+C to shut down.
+INFO  07:49:33 Hosting environment: Development
+INFO  07:49:33 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  07:54:46 Now listening on: http://localhost:5004
+INFO  07:54:46 Application started. Press Ctrl+C to shut down.
+INFO  07:54:46 Hosting environment: Development
+INFO  07:54:46 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:07:24 Now listening on: http://localhost:5004
+INFO  08:07:24 Application started. Press Ctrl+C to shut down.
+INFO  08:07:24 Hosting environment: Development
+INFO  08:07:24 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:10:26 Now listening on: http://localhost:5004
+INFO  08:10:26 Application started. Press Ctrl+C to shut down.
+INFO  08:10:26 Hosting environment: Development
+INFO  08:10:26 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:13:07 Now listening on: http://localhost:5004
+INFO  08:13:07 Application started. Press Ctrl+C to shut down.
+INFO  08:13:07 Hosting environment: Development
+INFO  08:13:07 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:15:52 Now listening on: http://localhost:5004
+INFO  08:15:52 Application started. Press Ctrl+C to shut down.
+INFO  08:15:52 Hosting environment: Development
+INFO  08:15:52 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:18:36 Now listening on: http://localhost:5004
+INFO  08:18:36 Application started. Press Ctrl+C to shut down.
+INFO  08:18:36 Hosting environment: Development
+INFO  08:18:36 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:41:37 Now listening on: http://localhost:5004
+INFO  08:41:38 Application started. Press Ctrl+C to shut down.
+INFO  08:41:38 Hosting environment: Development
+INFO  08:41:38 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:54:55 Now listening on: http://localhost:5004
+INFO  08:54:56 Application started. Press Ctrl+C to shut down.
+INFO  08:54:56 Hosting environment: Development
+INFO  08:54:56 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  08:58:37 Now listening on: http://localhost:5004
+INFO  08:58:37 Application started. Press Ctrl+C to shut down.
+INFO  08:58:37 Hosting environment: Development
+INFO  08:58:37 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:11:08 Now listening on: http://localhost:5004
+INFO  09:11:08 Application started. Press Ctrl+C to shut down.
+INFO  09:11:08 Hosting environment: Development
+INFO  09:11:09 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:13:22 Customer details  has been successfully retrieved
+INFO  09:13:47 Customer details  has been successfully retrieved
+INFO  09:14:48 Customer has been successfully created
+INFO  09:18:09 Now listening on: http://localhost:5004
+INFO  09:18:09 Application started. Press Ctrl+C to shut down.
+INFO  09:18:09 Hosting environment: Development
+INFO  09:18:09 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:19:32 Customer has been successfully created
+INFO  09:31:18 Now listening on: http://localhost:5004
+INFO  09:31:18 Application started. Press Ctrl+C to shut down.
+INFO  09:31:18 Hosting environment: Development
+INFO  09:31:18 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:32:28 Customer has been successfully created
+INFO  09:34:13 Customer has been successfully created
+INFO  09:38:53 Now listening on: http://localhost:5004
+INFO  09:38:53 Application started. Press Ctrl+C to shut down.
+INFO  09:38:53 Hosting environment: Development
+INFO  09:38:53 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:39:52 Customer has been successfully created
+INFO  09:44:23 Now listening on: http://localhost:5004
+INFO  09:44:23 Application started. Press Ctrl+C to shut down.
+INFO  09:44:23 Hosting environment: Development
+INFO  09:44:23 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:45:22 Customer has been successfully created
+INFO  09:47:36 Now listening on: http://localhost:5004
+INFO  09:47:36 Application started. Press Ctrl+C to shut down.
+INFO  09:47:36 Hosting environment: Development
+INFO  09:47:36 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:48:32 Customer has been successfully created
+INFO  09:56:25 Now listening on: http://localhost:5004
+INFO  09:56:25 Application started. Press Ctrl+C to shut down.
+INFO  09:56:25 Hosting environment: Development
+INFO  09:56:25 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  09:57:22 Customer has been successfully created
+INFO  10:00:12 Now listening on: http://localhost:5004
+INFO  10:00:13 Application started. Press Ctrl+C to shut down.
+INFO  10:00:13 Hosting environment: Development
+INFO  10:00:13 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:01:45 Now listening on: http://localhost:5004
+INFO  10:01:45 Application started. Press Ctrl+C to shut down.
+INFO  10:01:45 Hosting environment: Development
+INFO  10:01:45 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:03:13 Now listening on: http://localhost:5004
+INFO  10:03:13 Application started. Press Ctrl+C to shut down.
+INFO  10:03:13 Hosting environment: Development
+INFO  10:03:13 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:04:20 Customer has been successfully created
+INFO  10:07:58 Now listening on: http://localhost:5004
+INFO  10:07:58 Application started. Press Ctrl+C to shut down.
+INFO  10:07:58 Hosting environment: Development
+INFO  10:07:58 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:11:35 Customer has been successfully created
+INFO  10:14:52 Now listening on: http://localhost:5004
+INFO  10:14:52 Application started. Press Ctrl+C to shut down.
+INFO  10:14:52 Hosting environment: Development
+INFO  10:14:52 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:17:15 Now listening on: http://localhost:5004
+INFO  10:17:15 Application started. Press Ctrl+C to shut down.
+INFO  10:17:15 Hosting environment: Development
+INFO  10:17:15 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:19:55 Now listening on: http://localhost:5004
+INFO  10:19:55 Application started. Press Ctrl+C to shut down.
+INFO  10:19:55 Hosting environment: Development
+INFO  10:19:55 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:22:11 Now listening on: http://localhost:5004
+INFO  10:22:11 Application started. Press Ctrl+C to shut down.
+INFO  10:22:11 Hosting environment: Development
+INFO  10:22:11 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:23:53 Customer has been successfully created
+INFO  10:24:17 Customer has been successfully created
+INFO  10:24:34 Customer has been successfully created
+INFO  10:25:55 Now listening on: http://localhost:5004
+INFO  10:25:55 Application started. Press Ctrl+C to shut down.
+INFO  10:25:55 Hosting environment: Development
+INFO  10:25:55 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:11:02 Now listening on: http://localhost:5004
+INFO  10:11:03 Application started. Press Ctrl+C to shut down.
+INFO  10:11:03 Hosting environment: Development
+INFO  10:11:03 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\CustomerMicroService
+INFO  10:13:14 Customer has been successfully created
+<<<<<<< HEAD
+=======
+INFO  04:07:06 Now listening on: http://localhost:5004
+INFO  04:07:06 Application started. Press Ctrl+C to shut down.
+INFO  04:07:06 Hosting environment: Development
+INFO  04:07:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:07:46 Customer details  has been successfully retrieved
+INFO  04:21:18 Now listening on: http://localhost:5004
+INFO  04:21:18 Application started. Press Ctrl+C to shut down.
+INFO  04:21:18 Hosting environment: Development
+INFO  04:21:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:21:32 Customer details  has been successfully retrieved
+INFO  04:21:33 Customer details  has been successfully retrieved
+INFO  05:00:28 Now listening on: http://localhost:5004
+INFO  05:00:28 Application started. Press Ctrl+C to shut down.
+INFO  05:00:28 Hosting environment: Development
+INFO  05:00:28 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:01:12 Customer details  has been successfully retrieved
+INFO  09:33:18 Now listening on: http://localhost:5004
+INFO  09:33:18 Application started. Press Ctrl+C to shut down.
+INFO  09:33:18 Hosting environment: Development
+INFO  09:33:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:39:58 Now listening on: http://localhost:5004
+INFO  11:39:58 Application started. Press Ctrl+C to shut down.
+INFO  11:39:59 Hosting environment: Development
+INFO  11:39:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:04:47 Now listening on: http://localhost:5004
+INFO  12:04:47 Application started. Press Ctrl+C to shut down.
+INFO  12:04:47 Hosting environment: Development
+INFO  12:04:48 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  08:52:49 Now listening on: http://localhost:5004
+INFO  08:52:49 Application started. Press Ctrl+C to shut down.
+INFO  08:52:49 Hosting environment: Development
+INFO  08:52:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:29:37 Now listening on: http://localhost:5004
+INFO  09:29:37 Application started. Press Ctrl+C to shut down.
+INFO  09:29:37 Hosting environment: Development
+INFO  09:29:37 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:32:21 Now listening on: http://localhost:5004
+INFO  09:32:21 Application started. Press Ctrl+C to shut down.
+INFO  09:32:21 Hosting environment: Development
+INFO  09:32:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:35:29 Now listening on: http://localhost:5004
+INFO  09:35:29 Application started. Press Ctrl+C to shut down.
+INFO  09:35:29 Hosting environment: Development
+INFO  09:35:29 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:37:20 Now listening on: http://localhost:5004
+INFO  09:37:20 Application started. Press Ctrl+C to shut down.
+INFO  09:37:20 Hosting environment: Development
+INFO  09:37:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:48:40 Customer details  has been successfully retrieved
+INFO  09:56:11 Now listening on: http://localhost:5004
+INFO  09:56:11 Application started. Press Ctrl+C to shut down.
+INFO  09:56:12 Hosting environment: Development
+INFO  09:56:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:11:31 Now listening on: http://localhost:5004
+INFO  10:11:31 Application started. Press Ctrl+C to shut down.
+INFO  10:11:31 Hosting environment: Development
+INFO  10:11:31 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+>>>>>>> Stashed changes
+INFO  11:16:27 Now listening on: http://localhost:5004
+INFO  11:16:27 Application started. Press Ctrl+C to shut down.
+INFO  11:16:27 Hosting environment: Development
+INFO  11:16:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:23:14 Now listening on: http://localhost:5004
+INFO  11:23:14 Application started. Press Ctrl+C to shut down.
+INFO  11:23:14 Hosting environment: Development
+INFO  11:23:14 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:25:38 Now listening on: http://localhost:5004
+INFO  11:25:38 Application started. Press Ctrl+C to shut down.
+INFO  11:25:38 Hosting environment: Development
+INFO  11:25:38 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:26:13 Customer details  has been successfully retrieved
+INFO  11:31:41 Now listening on: http://localhost:5004
+INFO  11:31:41 Application started. Press Ctrl+C to shut down.
+INFO  11:31:41 Hosting environment: Development
+INFO  11:31:41 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:35:26 Now listening on: http://localhost:5004
+INFO  11:35:26 Application started. Press Ctrl+C to shut down.
+INFO  11:35:26 Hosting environment: Development
+INFO  11:35:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  11:38:36 No Matching result found for the id: 1
+INFO  11:49:06 Now listening on: http://localhost:5004
+INFO  11:49:06 Application started. Press Ctrl+C to shut down.
+INFO  11:49:06 Hosting environment: Development
+INFO  11:49:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:01:08 Now listening on: http://localhost:5004
+INFO  12:01:08 Application started. Press Ctrl+C to shut down.
+INFO  12:01:08 Hosting environment: Development
+INFO  12:01:08 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  12:01:39 No Matching result found for the id: 1
+INFO  12:10:07 Now listening on: http://localhost:5004
+INFO  12:10:07 Application started. Press Ctrl+C to shut down.
+INFO  12:10:07 Hosting environment: Development
+INFO  12:10:07 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  12:10:22 No Matching result found for the id: 1
+INFO  12:31:51 Now listening on: http://localhost:5004
+INFO  12:31:51 Application started. Press Ctrl+C to shut down.
+INFO  12:31:51 Hosting environment: Development
+INFO  12:31:52 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:53:20 Now listening on: http://localhost:5004
+INFO  12:53:20 Application started. Press Ctrl+C to shut down.
+INFO  12:53:20 Hosting environment: Development
+INFO  12:53:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:03:06 Now listening on: http://localhost:5004
+INFO  01:03:06 Application started. Press Ctrl+C to shut down.
+INFO  01:03:06 Hosting environment: Development
+INFO  01:03:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:05:23 Now listening on: http://localhost:5004
+INFO  01:05:23 Application started. Press Ctrl+C to shut down.
+INFO  01:05:23 Hosting environment: Development
+INFO  01:05:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:09:18 Now listening on: http://localhost:5004
+INFO  01:09:18 Application started. Press Ctrl+C to shut down.
+INFO  01:09:18 Hosting environment: Development
+INFO  01:09:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:13:26 Now listening on: http://localhost:5004
+INFO  01:13:26 Application started. Press Ctrl+C to shut down.
+INFO  01:13:26 Hosting environment: Development
+INFO  01:13:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:25:21 Now listening on: http://localhost:5004
+INFO  01:25:21 Application started. Press Ctrl+C to shut down.
+INFO  01:25:21 Hosting environment: Development
+INFO  01:25:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:25:51 Customer details  has been successfully retrieved
+=======
+INFO  12:32:14 Now listening on: http://localhost:5004
+INFO  12:32:15 Application started. Press Ctrl+C to shut down.
+INFO  12:32:15 Hosting environment: Development
+INFO  12:32:15 Content root path: D:\CTS Project\V8\Retail-Banking-System\CustomerMicroService
+INFO  12:37:03 Now listening on: http://localhost:5004
+INFO  12:37:03 Application started. Press Ctrl+C to shut down.
+INFO  12:37:03 Hosting environment: Development
+INFO  12:37:03 Content root path: D:\CTS Project\V8\Retail-Banking-System\CustomerMicroService
+INFO  12:38:16 Now listening on: http://localhost:5004
+INFO  12:38:16 Application started. Press Ctrl+C to shut down.
+INFO  12:38:16 Hosting environment: Development
+INFO  12:38:16 Content root path: D:\CTS Project\V8\Retail-Banking-System\CustomerMicroService
+INFO  01:12:50 Now listening on: http://localhost:5004
+INFO  01:12:50 Application started. Press Ctrl+C to shut down.
+INFO  01:12:50 Hosting environment: Development
+INFO  01:12:50 Content root path: D:\CTS Project\V8\Retail-Banking-System\CustomerMicroService
+INFO  01:14:36 Now listening on: http://localhost:5004
+INFO  01:14:36 Application started. Press Ctrl+C to shut down.
+INFO  01:14:36 Hosting environment: Development
+INFO  01:14:36 Content root path: D:\CTS Project\V8\Retail-Banking-System\CustomerMicroService
+>>>>>>> 0b9663fdc702ccc92a13e087fcd2fcc481dae4d6
+INFO  02:17:10 Now listening on: http://localhost:5004
+INFO  02:17:10 Application started. Press Ctrl+C to shut down.
+INFO  02:17:10 Hosting environment: Development
+INFO  02:17:10 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:29:33 Now listening on: http://localhost:5004
+INFO  02:29:33 Application started. Press Ctrl+C to shut down.
+INFO  02:29:33 Hosting environment: Development
+INFO  02:29:33 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:44:15 Now listening on: http://localhost:5004
+INFO  02:44:15 Application started. Press Ctrl+C to shut down.
+INFO  02:44:15 Hosting environment: Development
+INFO  02:44:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:14:41 Now listening on: http://localhost:5004
+INFO  03:14:41 Application started. Press Ctrl+C to shut down.
+INFO  03:14:41 Hosting environment: Development
+INFO  03:14:41 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  03:17:21 No Matching result found for the id: 1
+INFO  03:17:42 Customer details  has been successfully retrieved
+INFO  04:10:40 Now listening on: http://localhost:5004
+INFO  04:10:40 Application started. Press Ctrl+C to shut down.
+INFO  04:10:40 Hosting environment: Development
+INFO  04:10:40 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:18:54 Now listening on: http://localhost:5004
+INFO  04:18:55 Application started. Press Ctrl+C to shut down.
+INFO  04:18:55 Hosting environment: Development
+INFO  04:18:55 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:23:23 Now listening on: http://localhost:5004
+INFO  04:23:24 Application started. Press Ctrl+C to shut down.
+INFO  04:23:24 Hosting environment: Development
+INFO  04:23:24 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:25:39 Now listening on: http://localhost:5004
+INFO  04:25:39 Application started. Press Ctrl+C to shut down.
+INFO  04:25:39 Hosting environment: Development
+INFO  04:25:39 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:31:05 Now listening on: http://localhost:5004
+INFO  04:31:05 Application started. Press Ctrl+C to shut down.
+INFO  04:31:05 Hosting environment: Development
+INFO  04:31:05 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:49:35 Now listening on: http://localhost:5004
+INFO  04:49:35 Application started. Press Ctrl+C to shut down.
+INFO  04:49:35 Hosting environment: Development
+INFO  04:49:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:51:59 Now listening on: http://localhost:5004
+INFO  04:51:59 Application started. Press Ctrl+C to shut down.
+INFO  04:51:59 Hosting environment: Development
+INFO  04:51:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:57:44 Now listening on: http://localhost:5004
+INFO  04:57:44 Application started. Press Ctrl+C to shut down.
+INFO  04:57:44 Hosting environment: Development
+INFO  04:57:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:12:59 Now listening on: http://localhost:5004
+INFO  05:12:59 Application started. Press Ctrl+C to shut down.
+INFO  05:12:59 Hosting environment: Development
+INFO  05:12:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:18:18 Now listening on: http://localhost:5004
+INFO  05:18:18 Application started. Press Ctrl+C to shut down.
+INFO  05:18:18 Hosting environment: Development
+INFO  05:18:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:19:38 Now listening on: http://localhost:5004
+INFO  05:19:38 Application started. Press Ctrl+C to shut down.
+INFO  05:19:38 Hosting environment: Development
+INFO  05:19:38 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:29:15 Now listening on: http://localhost:5004
+INFO  05:29:15 Application started. Press Ctrl+C to shut down.
+INFO  05:29:15 Hosting environment: Development
+INFO  05:29:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:34:36 Now listening on: http://localhost:5004
+INFO  05:34:36 Application started. Press Ctrl+C to shut down.
+INFO  05:34:36 Hosting environment: Development
+INFO  05:34:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:35:07 Customer details  has been successfully retrieved
+INFO  10:44:58 Now listening on: http://localhost:5004
+INFO  10:44:58 Application started. Press Ctrl+C to shut down.
+INFO  10:44:58 Hosting environment: Development
+INFO  10:44:58 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:10:56 Now listening on: http://localhost:5004
+INFO  11:10:56 Application started. Press Ctrl+C to shut down.
+INFO  11:10:56 Hosting environment: Development
+INFO  11:10:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:54:09 Now listening on: http://localhost:5004
+INFO  09:54:09 Application started. Press Ctrl+C to shut down.
+INFO  09:54:09 Hosting environment: Development
+INFO  09:54:09 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+WARN  10:02:37 User send some invalid customer id
+INFO  10:09:32 Now listening on: http://localhost:5004
+INFO  10:09:32 Application started. Press Ctrl+C to shut down.
+INFO  10:09:32 Hosting environment: Development
+INFO  10:09:32 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:12:13 Customer has been successfully created
+WARN  10:13:36 User send some invalid customer id
+INFO  10:13:49 Customer details  has been successfully retrieved
+INFO  10:18:10 Customer details  has been successfully retrieved
+INFO  10:58:28 Now listening on: http://localhost:5004
+INFO  10:58:28 Application started. Press Ctrl+C to shut down.
+INFO  10:58:28 Hosting environment: Development
+INFO  10:58:28 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:28:13 Now listening on: http://localhost:5004
+INFO  11:28:13 Application started. Press Ctrl+C to shut down.
+INFO  11:28:13 Hosting environment: Development
+INFO  11:28:13 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:31:13 Now listening on: http://localhost:5004
+INFO  11:31:13 Application started. Press Ctrl+C to shut down.
+INFO  11:31:13 Hosting environment: Development
+INFO  11:31:13 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:43:26 Now listening on: http://localhost:5004
+INFO  11:43:26 Application started. Press Ctrl+C to shut down.
+INFO  11:43:26 Hosting environment: Development
+INFO  11:43:26 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:46:59 Now listening on: http://localhost:5004
+INFO  11:46:59 Application started. Press Ctrl+C to shut down.
+INFO  11:46:59 Hosting environment: Development
+INFO  11:46:59 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:38:43 Now listening on: http://localhost:5004
+INFO  12:38:43 Application started. Press Ctrl+C to shut down.
+INFO  12:38:43 Hosting environment: Development
+INFO  12:38:43 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:53:39 Now listening on: http://localhost:5004
+INFO  02:53:39 Application started. Press Ctrl+C to shut down.
+INFO  02:53:39 Hosting environment: Development
+INFO  02:53:39 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:05:45 Now listening on: http://localhost:5004
+INFO  03:05:45 Application started. Press Ctrl+C to shut down.
+INFO  03:05:45 Hosting environment: Development
+INFO  03:05:45 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  03:39:21 Now listening on: http://localhost:5004
+INFO  03:39:21 Application started. Press Ctrl+C to shut down.
+INFO  03:39:21 Hosting environment: Development
+INFO  03:39:21 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:00:42 Now listening on: http://localhost:5004
+INFO  05:00:42 Application started. Press Ctrl+C to shut down.
+INFO  05:00:42 Hosting environment: Development
+INFO  05:00:42 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:03:22 Now listening on: http://localhost:5004
+INFO  05:03:22 Application started. Press Ctrl+C to shut down.
+INFO  05:03:22 Hosting environment: Development
+INFO  05:03:22 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:10:12 Customer has been successfully created
+INFO  05:13:38 Customer details  has been successfully retrieved
+INFO  10:56:46 Now listening on: http://localhost:5004
+INFO  10:56:47 Application started. Press Ctrl+C to shut down.
+INFO  10:56:47 Hosting environment: Development
+INFO  10:56:47 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:00:06 Customer has been successfully created
+INFO  12:11:10 Now listening on: http://localhost:5004
+INFO  12:11:10 Application started. Press Ctrl+C to shut down.
+INFO  12:11:10 Hosting environment: Development
+INFO  12:11:10 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:26:35 Now listening on: http://localhost:5004
+INFO  12:26:36 Application started. Press Ctrl+C to shut down.
+INFO  12:26:36 Hosting environment: Development
+INFO  12:26:36 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:55:51 Now listening on: http://localhost:5004
+INFO  12:55:51 Application started. Press Ctrl+C to shut down.
+INFO  12:55:51 Hosting environment: Development
+INFO  12:55:51 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:56:51 Customer details  has been successfully retrieved
+INFO  01:02:04 Now listening on: http://localhost:5004
+INFO  01:02:05 Application started. Press Ctrl+C to shut down.
+INFO  01:02:05 Hosting environment: Development
+INFO  01:02:05 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:02:53 Customer details  has been successfully retrieved
+INFO  01:06:12 Now listening on: http://localhost:5004
+INFO  01:06:12 Application started. Press Ctrl+C to shut down.
+INFO  01:06:12 Hosting environment: Development
+INFO  01:06:12 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  01:06:49 Customer details  has been successfully retrieved
+INFO  02:31:31 Now listening on: http://localhost:5004
+INFO  02:31:31 Application started. Press Ctrl+C to shut down.
+INFO  02:31:31 Hosting environment: Development
+INFO  02:31:31 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:32:57 Customer details  has been successfully retrieved
+INFO  04:34:17 Now listening on: http://localhost:5004
+INFO  04:34:18 Application started. Press Ctrl+C to shut down.
+INFO  04:34:18 Hosting environment: Development
+INFO  04:34:18 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:34:54 Customer details  has been successfully retrieved
+INFO  04:35:51 Customer details  has been successfully retrieved
+INFO  04:37:27 Customer details  has been successfully retrieved
+INFO  04:39:59 Now listening on: http://localhost:5004
+INFO  04:39:59 Application started. Press Ctrl+C to shut down.
+INFO  04:39:59 Hosting environment: Development
+INFO  04:39:59 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:41:05 Customer details  has been successfully retrieved
+INFO  04:44:37 Now listening on: http://localhost:5004
+INFO  04:44:37 Application started. Press Ctrl+C to shut down.
+INFO  04:44:37 Hosting environment: Development
+INFO  04:44:37 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:45:22 Customer details  has been successfully retrieved
+INFO  04:48:47 Customer details  has been successfully retrieved
+INFO  04:50:06 Now listening on: http://localhost:5004
+INFO  04:50:06 Application started. Press Ctrl+C to shut down.
+INFO  04:50:06 Hosting environment: Development
+INFO  04:50:06 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  04:50:35 Customer details  has been successfully retrieved
+INFO  05:09:54 Customer details  has been successfully retrieved
+INFO  05:14:44 Now listening on: http://localhost:5004
+INFO  05:14:44 Application started. Press Ctrl+C to shut down.
+INFO  05:14:44 Hosting environment: Development
+INFO  05:14:44 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:15:33 Customer details  has been successfully retrieved
+INFO  05:18:12 Customer details  has been successfully retrieved
+INFO  05:36:18 Now listening on: http://localhost:5004
+INFO  05:36:18 Application started. Press Ctrl+C to shut down.
+INFO  05:36:18 Hosting environment: Development
+INFO  05:36:18 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:38:41 Customer has been successfully created
+INFO  05:39:02 Customer details  has been successfully retrieved
+INFO  02:41:51 Now listening on: http://localhost:5004
+INFO  02:41:51 Application started. Press Ctrl+C to shut down.
+INFO  02:41:51 Hosting environment: Development
+INFO  02:41:51 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:42:38 Now listening on: http://localhost:5004
+INFO  02:42:38 Application started. Press Ctrl+C to shut down.
+INFO  02:42:38 Hosting environment: Development
+INFO  02:42:38 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:44:24 Customer details  has been successfully retrieved
+INFO  02:45:47 Now listening on: http://localhost:5004
+INFO  02:45:47 Application started. Press Ctrl+C to shut down.
+INFO  02:45:47 Hosting environment: Development
+INFO  02:45:47 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  02:46:43 Customer details  has been successfully retrieved
+INFO  09:02:29 Now listening on: http://localhost:5004
+INFO  09:02:29 Application started. Press Ctrl+C to shut down.
+INFO  09:02:29 Hosting environment: Development
+INFO  09:02:29 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:04:07 Customer details  has been successfully retrieved
+INFO  09:15:09 Now listening on: http://localhost:5004
+INFO  09:15:09 Application started. Press Ctrl+C to shut down.
+INFO  09:15:09 Hosting environment: Development
+INFO  09:15:09 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:16:00 Customer details  has been successfully retrieved
+INFO  09:27:44 Now listening on: http://localhost:5004
+INFO  09:27:44 Application started. Press Ctrl+C to shut down.
+INFO  09:27:44 Hosting environment: Development
+INFO  09:27:44 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:28:26 Customer details  has been successfully retrieved
+INFO  09:50:16 Now listening on: http://localhost:5004
+INFO  09:50:16 Application started. Press Ctrl+C to shut down.
+INFO  09:50:16 Hosting environment: Development
+INFO  09:50:16 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  09:57:55 Now listening on: http://localhost:5004
+INFO  09:57:55 Application started. Press Ctrl+C to shut down.
+INFO  09:57:55 Hosting environment: Development
+INFO  09:57:55 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:06:06 Customer has been successfully created
+INFO  10:08:22 Customer details  has been successfully retrieved
+INFO  10:18:54 Now listening on: http://localhost:5004
+INFO  10:18:54 Application started. Press Ctrl+C to shut down.
+INFO  10:18:55 Hosting environment: Development
+INFO  10:18:55 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:21:14 Now listening on: http://localhost:5004
+INFO  10:21:14 Application started. Press Ctrl+C to shut down.
+INFO  10:21:14 Hosting environment: Development
+INFO  10:21:14 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:39:41 Now listening on: http://localhost:5004
+INFO  10:39:41 Application started. Press Ctrl+C to shut down.
+INFO  10:39:41 Hosting environment: Development
+INFO  10:39:41 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  10:46:49 Customer has been successfully created
+INFO  10:47:18 Customer details  has been successfully retrieved
+INFO  10:47:18 Customer details  has been successfully retrieved
+INFO  10:56:31 Now listening on: http://localhost:5004
+INFO  10:56:31 Application started. Press Ctrl+C to shut down.
+INFO  10:56:31 Hosting environment: Development
+INFO  10:56:31 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:00:28 Customer has been successfully created
+INFO  11:12:37 Now listening on: http://localhost:5004
+INFO  11:12:37 Application started. Press Ctrl+C to shut down.
+INFO  11:12:37 Hosting environment: Development
+INFO  11:12:37 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  11:13:42 Customer has been successfully created
+INFO  11:15:15 Customer details  has been successfully retrieved
+INFO  12:22:18 Now listening on: http://localhost:5004
+INFO  12:22:18 Application started. Press Ctrl+C to shut down.
+INFO  12:22:18 Hosting environment: Development
+INFO  12:22:18 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  12:23:10 Customer details  has been successfully retrieved
+INFO  12:24:24 Customer details  has been successfully retrieved
+INFO  05:54:43 Now listening on: http://localhost:5004
+INFO  05:54:43 Application started. Press Ctrl+C to shut down.
+INFO  05:54:43 Hosting environment: Development
+INFO  05:54:43 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\CustomerMicroService
+INFO  05:58:07 Customer has been successfully created
+INFO  05:59:04 Customer details  has been successfully retrieved
+INFO  10:36:46 Now listening on: http://localhost:5004
+INFO  10:36:47 Application started. Press Ctrl+C to shut down.
+INFO  10:36:47 Hosting environment: Development
+INFO  10:36:47 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  10:38:15 Customer has been successfully created
+INFO  10:38:39 Customer details  has been successfully retrieved
+INFO  10:47:51 Now listening on: http://localhost:5004
+INFO  10:47:51 Application started. Press Ctrl+C to shut down.
+INFO  10:47:51 Hosting environment: Development
+INFO  10:47:51 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  10:48:50 Customer details  has been successfully retrieved
+INFO  10:50:21 Customer details  has been successfully retrieved
+INFO  09:37:31 Now listening on: http://localhost:5004
+INFO  09:37:32 Application started. Press Ctrl+C to shut down.
+INFO  09:37:32 Hosting environment: Development
+INFO  09:37:32 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:42:57 Now listening on: http://localhost:5004
+INFO  09:42:57 Application started. Press Ctrl+C to shut down.
+INFO  09:42:57 Hosting environment: Development
+INFO  09:42:57 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:44:11 Customer details  has been successfully retrieved
+INFO  09:51:23 Now listening on: http://localhost:5004
+INFO  09:51:23 Application started. Press Ctrl+C to shut down.
+INFO  09:51:23 Hosting environment: Development
+INFO  09:51:23 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:07:53 Now listening on: http://localhost:5004
+INFO  12:07:53 Application started. Press Ctrl+C to shut down.
+INFO  12:07:53 Hosting environment: Development
+INFO  12:07:53 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:11:02 Now listening on: http://localhost:5004
+INFO  12:11:02 Application started. Press Ctrl+C to shut down.
+INFO  12:11:02 Hosting environment: Development
+INFO  12:11:02 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:16:26 Now listening on: http://localhost:5004
+INFO  12:16:26 Application started. Press Ctrl+C to shut down.
+INFO  12:16:26 Hosting environment: Development
+INFO  12:16:26 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:19:42 Now listening on: http://localhost:5004
+INFO  12:19:42 Application started. Press Ctrl+C to shut down.
+INFO  12:19:42 Hosting environment: Development
+INFO  12:19:42 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:21:00 Customer has been successfully created
+INFO  12:24:53 Customer has been successfully created
+INFO  12:37:49 Now listening on: http://localhost:5004
+INFO  12:37:50 Application started. Press Ctrl+C to shut down.
+INFO  12:37:50 Hosting environment: Development
+INFO  12:37:50 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:39:48 Customer has been successfully created
+INFO  12:53:10 Now listening on: http://localhost:5004
+INFO  12:53:10 Application started. Press Ctrl+C to shut down.
+INFO  12:53:10 Hosting environment: Development
+INFO  12:53:10 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  12:55:21 Customer has been successfully created
+INFO  12:55:45 Customer details  has been successfully retrieved
+INFO  07:59:38 Now listening on: http://localhost:5004
+INFO  07:59:38 Application started. Press Ctrl+C to shut down.
+INFO  07:59:38 Hosting environment: Development
+INFO  07:59:38 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  08:08:12 Now listening on: http://localhost:5004
+INFO  08:08:12 Application started. Press Ctrl+C to shut down.
+INFO  08:08:12 Hosting environment: Development
+INFO  08:08:12 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  08:20:02 Now listening on: http://localhost:5004
+INFO  08:20:02 Application started. Press Ctrl+C to shut down.
+INFO  08:20:02 Hosting environment: Development
+INFO  08:20:02 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  08:23:13 Now listening on: http://localhost:5004
+INFO  08:23:13 Application started. Press Ctrl+C to shut down.
+INFO  08:23:14 Hosting environment: Development
+INFO  08:23:14 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  08:36:56 Customer has been successfully created
+INFO  08:36:57 Customer details  has been successfully retrieved
+INFO  08:41:50 Customer details  has been successfully retrieved
+INFO  08:42:42 Customer details  has been successfully retrieved
+INFO  08:56:57 Now listening on: http://localhost:5004
+INFO  08:56:57 Application started. Press Ctrl+C to shut down.
+INFO  08:56:57 Hosting environment: Development
+INFO  08:56:57 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  08:58:37 Customer has been successfully created
+INFO  08:58:37 Customer details  has been successfully retrieved
+INFO  09:02:49 Customer has been successfully created
+INFO  09:02:49 Customer details  has been successfully retrieved
+INFO  07:11:24 Now listening on: http://localhost:5004
+INFO  07:11:24 Application started. Press Ctrl+C to shut down.
+INFO  07:11:24 Hosting environment: Development
+INFO  07:11:24 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  07:12:57 Customer has been successfully created
+INFO  07:12:58 Customer details  has been successfully retrieved
+INFO  07:21:26 Now listening on: http://localhost:5004
+INFO  07:21:26 Application started. Press Ctrl+C to shut down.
+INFO  07:21:26 Hosting environment: Development
+INFO  07:21:26 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:37:53 Now listening on: http://localhost:5004
+INFO  09:37:53 Application started. Press Ctrl+C to shut down.
+INFO  09:37:54 Hosting environment: Development
+INFO  09:37:54 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  10:53:15 Now listening on: http://localhost:5004
+INFO  10:53:15 Application started. Press Ctrl+C to shut down.
+INFO  10:53:16 Hosting environment: Development
+INFO  10:53:16 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:04:52 Now listening on: http://localhost:5004
+INFO  09:04:52 Application started. Press Ctrl+C to shut down.
+INFO  09:04:52 Hosting environment: Development
+INFO  09:04:52 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:10:40 Now listening on: http://localhost:5004
+INFO  09:10:40 Application started. Press Ctrl+C to shut down.
+INFO  09:10:40 Hosting environment: Development
+INFO  09:10:41 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:13:35 Now listening on: http://localhost:5004
+INFO  09:13:35 Application started. Press Ctrl+C to shut down.
+INFO  09:13:35 Hosting environment: Development
+INFO  09:13:35 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:20:56 Now listening on: http://localhost:5004
+INFO  09:20:56 Application started. Press Ctrl+C to shut down.
+INFO  09:20:56 Hosting environment: Development
+INFO  09:20:56 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService
+INFO  09:24:02 Now listening on: http://localhost:5004
+INFO  09:24:02 Application started. Press Ctrl+C to shut down.
+INFO  09:24:02 Hosting environment: Development
+INFO  09:24:02 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\CustomerMicroService

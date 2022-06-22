@@ -1,0 +1,1377 @@
+INFO  10:43:39 Application started. Press Ctrl+C to shut down.
+INFO  10:43:39 Hosting environment: Development
+INFO  10:43:39 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  10:43:41 getAllUser API is initiated
+INFO  10:58:15 getAllUser API is initiated
+INFO  03:02:15 Application started. Press Ctrl+C to shut down.
+INFO  03:02:15 Hosting environment: Development
+INFO  03:02:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  05:19:00 Now listening on: http://localhost:5000
+INFO  05:19:00 Application started. Press Ctrl+C to shut down.
+INFO  05:19:00 Hosting environment: Development
+INFO  05:19:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  05:19:32 getAllUser API is initiated
+INFO  05:41:50 Now listening on: http://localhost:5000
+INFO  05:41:50 Application started. Press Ctrl+C to shut down.
+INFO  05:41:50 Hosting environment: Development
+INFO  05:41:50 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  05:46:16 Now listening on: http://localhost:5003
+INFO  05:46:16 Application started. Press Ctrl+C to shut down.
+INFO  05:46:16 Hosting environment: Development
+INFO  05:46:16 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  05:47:53 Now listening on: http://localhost:5003
+INFO  05:47:53 Application started. Press Ctrl+C to shut down.
+INFO  05:47:53 Hosting environment: Development
+INFO  05:47:53 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  05:48:22 getAllUser API is initiated
+INFO  05:53:19 Now listening on: http://localhost:5003
+INFO  05:53:19 Application started. Press Ctrl+C to shut down.
+INFO  05:53:20 Hosting environment: Development
+INFO  05:53:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail Banking System\Retail_Banking_API\UserMicroService
+INFO  08:50:09 Now listening on: http://localhost:5003
+INFO  08:50:09 Application started. Press Ctrl+C to shut down.
+INFO  08:50:09 Hosting environment: Development
+INFO  08:50:09 Content root path: C:\Users\PRATIK\source\repos\Banking Project\Retail-Banking-System\UserMicroService
+INFO  11:32:02 Now listening on: http://localhost:5003
+INFO  11:32:02 Application started. Press Ctrl+C to shut down.
+INFO  11:32:02 Hosting environment: Development
+INFO  11:32:02 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\UserMicroService
+INFO  11:32:33 getAllUser API is initiated
+INFO  11:42:08 Now listening on: http://localhost:5003
+INFO  11:42:08 Application started. Press Ctrl+C to shut down.
+INFO  11:42:08 Hosting environment: Development
+INFO  11:42:08 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\UserMicroService
+<<<<<<< Updated upstream
+INFO  12:02:55 Now listening on: http://localhost:5003
+INFO  12:02:55 Application started. Press Ctrl+C to shut down.
+INFO  12:02:55 Hosting environment: Development
+INFO  12:02:55 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\UserMicroService
+=======
+INFO  12:35:54 Now listening on: http://localhost:5003
+INFO  12:35:54 Application started. Press Ctrl+C to shut down.
+INFO  12:35:54 Hosting environment: Development
+INFO  12:35:54 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:43:02 Now listening on: http://localhost:5003
+INFO  12:43:02 Application started. Press Ctrl+C to shut down.
+INFO  12:43:02 Hosting environment: Development
+INFO  12:43:02 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:50:48 Now listening on: http://localhost:5003
+INFO  12:50:48 Application started. Press Ctrl+C to shut down.
+INFO  12:50:48 Hosting environment: Development
+INFO  12:50:48 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:53:04 Now listening on: http://localhost:5003
+INFO  12:53:04 Application started. Press Ctrl+C to shut down.
+INFO  12:53:04 Hosting environment: Development
+INFO  12:53:04 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:54:15 Now listening on: http://localhost:5003
+INFO  12:54:15 Application started. Press Ctrl+C to shut down.
+INFO  12:54:15 Hosting environment: Development
+INFO  12:54:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:59:51 Now listening on: http://localhost:5003
+INFO  12:59:51 Application started. Press Ctrl+C to shut down.
+INFO  12:59:51 Hosting environment: Development
+INFO  12:59:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:59:23 Now listening on: http://localhost:5003
+INFO  01:59:23 Application started. Press Ctrl+C to shut down.
+INFO  01:59:23 Hosting environment: Development
+INFO  01:59:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:47:36 Now listening on: http://localhost:5003
+INFO  02:47:36 Application started. Press Ctrl+C to shut down.
+INFO  02:47:36 Hosting environment: Development
+INFO  02:47:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:49:17 Now listening on: http://localhost:5003
+INFO  02:49:17 Application started. Press Ctrl+C to shut down.
+INFO  02:49:17 Hosting environment: Development
+INFO  02:49:17 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:50:26 Now listening on: http://localhost:5003
+INFO  02:50:26 Application started. Press Ctrl+C to shut down.
+INFO  02:50:26 Hosting environment: Development
+INFO  02:50:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:52:13 Now listening on: http://localhost:5003
+INFO  02:52:13 Application started. Press Ctrl+C to shut down.
+INFO  02:52:13 Hosting environment: Development
+INFO  02:52:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:07:22 Now listening on: http://localhost:5003
+INFO  03:07:22 Application started. Press Ctrl+C to shut down.
+INFO  03:07:22 Hosting environment: Development
+INFO  03:07:22 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:17:56 Now listening on: http://localhost:5003
+INFO  03:17:56 Application started. Press Ctrl+C to shut down.
+INFO  03:17:56 Hosting environment: Development
+INFO  03:17:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:21:49 Now listening on: http://localhost:5003
+INFO  03:21:49 Application started. Press Ctrl+C to shut down.
+INFO  03:21:49 Hosting environment: Development
+INFO  03:21:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:23:47 Now listening on: http://localhost:5003
+INFO  03:23:47 Application started. Press Ctrl+C to shut down.
+INFO  03:23:47 Hosting environment: Development
+INFO  03:23:47 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:25:59 Now listening on: http://localhost:5003
+INFO  03:25:59 Application started. Press Ctrl+C to shut down.
+INFO  03:25:59 Hosting environment: Development
+INFO  03:25:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+>>>>>>> Stashed changes
+INFO  03:48:25 Now listening on: http://localhost:5003
+INFO  03:48:26 Application started. Press Ctrl+C to shut down.
+INFO  03:48:26 Hosting environment: Development
+INFO  03:48:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:49:59 Now listening on: http://localhost:5003
+INFO  03:49:59 Application started. Press Ctrl+C to shut down.
+INFO  03:49:59 Hosting environment: Development
+INFO  03:49:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:55:47 Now listening on: http://localhost:5003
+INFO  02:55:47 Application started. Press Ctrl+C to shut down.
+INFO  02:55:47 Hosting environment: Development
+INFO  02:55:47 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:56:17 getAllUser API is initiated
+INFO  07:57:44 Now listening on: http://localhost:5003
+INFO  07:57:44 Application started. Press Ctrl+C to shut down.
+INFO  07:57:44 Hosting environment: Development
+INFO  07:57:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:02:31 Now listening on: http://localhost:5003
+INFO  08:02:31 Application started. Press Ctrl+C to shut down.
+INFO  08:02:31 Hosting environment: Development
+INFO  08:02:31 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:06:04 Now listening on: http://localhost:5003
+INFO  08:06:04 Application started. Press Ctrl+C to shut down.
+INFO  08:06:04 Hosting environment: Development
+INFO  08:06:04 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:07:51 Now listening on: http://localhost:5003
+INFO  08:07:52 Application started. Press Ctrl+C to shut down.
+INFO  08:07:52 Hosting environment: Development
+INFO  08:07:52 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:18:18 Now listening on: http://localhost:5003
+INFO  08:18:18 Application started. Press Ctrl+C to shut down.
+INFO  08:18:18 Hosting environment: Development
+INFO  08:18:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:19:39 getAllUser API is initiated
+INFO  08:21:04 getAllUser API is initiated
+INFO  08:21:28 getAllUser API is initiated
+INFO  08:43:36 Now listening on: http://localhost:5003
+INFO  08:43:36 Application started. Press Ctrl+C to shut down.
+INFO  08:43:36 Hosting environment: Development
+INFO  08:43:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:44:11 getAllUser API is initiated
+INFO  08:47:13 getAllUser API is initiated
+INFO  08:47:47 getAllUser API is initiated
+INFO  08:48:09 Now listening on: http://localhost:5003
+INFO  08:48:09 Application started. Press Ctrl+C to shut down.
+INFO  08:48:09 Hosting environment: Development
+INFO  08:48:09 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:49:32 getAllUser API is initiated
+INFO  08:50:10 getAllUser API is initiated
+INFO  08:52:21 getAllUser API is initiated
+INFO  08:54:54 Now listening on: http://localhost:5003
+INFO  08:54:54 Application started. Press Ctrl+C to shut down.
+INFO  08:54:54 Hosting environment: Development
+INFO  08:54:54 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:55:41 getAllUser API is initiated
+INFO  08:58:46 getAllUser API is initiated
+INFO  08:59:41 getAllUser API is initiated
+INFO  11:37:12 Now listening on: http://localhost:5003
+INFO  11:37:13 Application started. Press Ctrl+C to shut down.
+INFO  11:37:13 Hosting environment: Development
+INFO  11:37:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:23:50 Now listening on: http://localhost:5003
+INFO  12:23:50 Application started. Press Ctrl+C to shut down.
+INFO  12:23:50 Hosting environment: Development
+INFO  12:23:50 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:37:55 getAllUser API is initiated
+ERROR 12:38:00 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 12:38:00 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '157.43.200.253' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:15e596f6-5248-4659-890e-bce95b4e260d
+Error Number:40615,State:1,Class:14
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '157.43.200.253' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:15e596f6-5248-4659-890e-bce95b4e260d
+Error Number:40615,State:1,Class:14
+ERROR 12:38:00 Cannot open server 'retail-banking-system' requested by the login. Client with IP address '157.43.200.253' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+INFO  12:40:44 Now listening on: http://localhost:5003
+INFO  12:40:44 Application started. Press Ctrl+C to shut down.
+INFO  12:40:44 Hosting environment: Development
+INFO  12:40:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:41:09 getAllUser API is initiated
+INFO  02:21:11 Now listening on: http://localhost:5003
+INFO  02:21:11 Application started. Press Ctrl+C to shut down.
+INFO  02:21:11 Hosting environment: Development
+INFO  02:21:11 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:22:02 Now listening on: http://localhost:5003
+INFO  02:22:02 Application started. Press Ctrl+C to shut down.
+INFO  02:22:02 Hosting environment: Development
+INFO  02:22:02 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:22:49 getAllUser API is initiated
+INFO  02:26:56 Now listening on: http://localhost:5003
+INFO  02:26:56 Application started. Press Ctrl+C to shut down.
+INFO  02:26:56 Hosting environment: Development
+INFO  02:26:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:27:18 getAllUser API is initiated
+INFO  02:32:01 Now listening on: http://localhost:5003
+INFO  02:32:01 Application started. Press Ctrl+C to shut down.
+INFO  02:32:01 Hosting environment: Development
+INFO  02:32:01 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:32:27 getAllUser API is initiated
+INFO  02:41:33 Now listening on: http://localhost:5003
+INFO  02:41:34 Application started. Press Ctrl+C to shut down.
+INFO  02:41:34 Hosting environment: Development
+INFO  02:41:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:42:01 getAllUser API is initiated
+ERROR 02:42:11 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 02:42:11 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - The specified network name is no longer available.)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+ClientConnectionId:3918856e-aa9f-4e3d-a166-08d6a6fa4376
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - The specified network name is no longer available.)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+ClientConnectionId:3918856e-aa9f-4e3d-a166-08d6a6fa4376
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ERROR 02:42:11 An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ERROR 02:43:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - The specified network name is no longer available.)
+ ---> System.ComponentModel.Win32Exception (64): The specified network name is no longer available.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+ClientConnectionId:3918856e-aa9f-4e3d-a166-08d6a6fa4376
+Error Number:64,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at UserMicroService.Repository.UserCredRepository.GetUserCreds() in C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService\Repository\UserCredRepository.cs:line 24
+   at UserMicroService.Controllers.UserController.GetAllUser() in C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService\Controllers\UserController.cs:line 31
+   at lambda_method2(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:43:18 getAllUser API is initiated
+INFO  02:43:48 getAllUser API is initiated
+INFO  02:51:44 Now listening on: http://localhost:5003
+INFO  02:51:44 Application started. Press Ctrl+C to shut down.
+INFO  02:51:44 Hosting environment: Development
+INFO  02:51:44 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:52:07 getAllUser API is initiated
+INFO  02:53:32 Now listening on: http://localhost:5003
+INFO  02:53:32 Application started. Press Ctrl+C to shut down.
+INFO  02:53:32 Hosting environment: Development
+INFO  02:53:32 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:53:57 getAllUser API is initiated
+INFO  02:54:52 Now listening on: http://localhost:5003
+INFO  02:54:52 Application started. Press Ctrl+C to shut down.
+INFO  02:54:52 Hosting environment: Development
+INFO  02:54:52 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:55:19 getAllUser API is initiated
+INFO  03:03:21 Now listening on: http://localhost:5003
+INFO  03:03:21 Application started. Press Ctrl+C to shut down.
+INFO  03:03:21 Hosting environment: Development
+INFO  03:03:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:03:44 getAllUser API is initiated
+INFO  03:05:19 getAllUser API is initiated
+INFO  03:11:43 Now listening on: http://localhost:5003
+INFO  03:11:43 Application started. Press Ctrl+C to shut down.
+INFO  03:11:43 Hosting environment: Development
+INFO  03:11:43 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:16:06 Now listening on: http://localhost:5003
+INFO  03:16:06 Application started. Press Ctrl+C to shut down.
+INFO  03:16:06 Hosting environment: Development
+INFO  03:16:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:17:15 getAllUser API is initiated
+INFO  03:18:37 Now listening on: http://localhost:5003
+INFO  03:18:37 Application started. Press Ctrl+C to shut down.
+INFO  03:18:37 Hosting environment: Development
+INFO  03:18:37 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:18:54 getAllUser API is initiated
+INFO  03:19:51 Now listening on: http://localhost:5003
+INFO  03:19:51 Application started. Press Ctrl+C to shut down.
+INFO  03:19:51 Hosting environment: Development
+INFO  03:19:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:20:12 getAllUser API is initiated
+INFO  03:21:55 Now listening on: http://localhost:5003
+INFO  03:21:55 Application started. Press Ctrl+C to shut down.
+INFO  03:21:55 Hosting environment: Development
+INFO  03:21:55 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:22:16 getAllUser API is initiated
+INFO  03:23:19 Now listening on: http://localhost:5003
+INFO  03:23:19 Application started. Press Ctrl+C to shut down.
+INFO  03:23:19 Hosting environment: Development
+INFO  03:23:19 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:23:38 getAllUser API is initiated
+INFO  03:25:13 Now listening on: http://localhost:5003
+INFO  03:25:14 Application started. Press Ctrl+C to shut down.
+INFO  03:25:14 Hosting environment: Development
+INFO  03:25:14 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:25:39 getAllUser API is initiated
+INFO  03:34:40 Now listening on: http://localhost:5003
+INFO  03:34:40 Application started. Press Ctrl+C to shut down.
+INFO  03:34:40 Hosting environment: Development
+INFO  03:34:40 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:35:06 getAllUser API is initiated
+INFO  03:55:17 Now listening on: http://localhost:5003
+INFO  03:55:17 Application started. Press Ctrl+C to shut down.
+INFO  03:55:17 Hosting environment: Development
+INFO  03:55:17 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:55:47 getAllUser API is initiated
+INFO  05:22:49 Now listening on: http://localhost:5003
+INFO  05:22:49 Application started. Press Ctrl+C to shut down.
+INFO  05:22:49 Hosting environment: Development
+INFO  05:22:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:23:46 getAllUser API is initiated
+INFO  05:27:58 Now listening on: http://localhost:5003
+INFO  05:27:58 Application started. Press Ctrl+C to shut down.
+INFO  05:27:58 Hosting environment: Development
+INFO  05:27:58 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:35:08 Now listening on: http://localhost:5003
+INFO  05:35:08 Application started. Press Ctrl+C to shut down.
+INFO  05:35:08 Hosting environment: Development
+INFO  05:35:08 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:39:16 getAllUser API is initiated
+INFO  06:09:27 Now listening on: http://localhost:5003
+INFO  06:09:27 Application started. Press Ctrl+C to shut down.
+INFO  06:09:27 Hosting environment: Development
+INFO  06:09:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  06:10:18 getAllUser API is initiated
+INFO  07:06:46 Now listening on: http://localhost:5003
+INFO  07:06:46 Application started. Press Ctrl+C to shut down.
+INFO  07:06:46 Hosting environment: Development
+INFO  07:06:46 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:07:09 getAllUser API is initiated
+ERROR 07:07:13 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 07:07:13 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.124' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:9066c70a-a96b-4519-a139-9a7e435111e8
+Error Number:40615,State:1,Class:14
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.124' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:9066c70a-a96b-4519-a139-9a7e435111e8
+Error Number:40615,State:1,Class:14
+ERROR 07:07:13 Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.124' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+INFO  07:20:08 Now listening on: http://localhost:5003
+INFO  07:20:09 Application started. Press Ctrl+C to shut down.
+INFO  07:20:09 Hosting environment: Development
+INFO  07:20:09 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:20:21 getAllUser API is initiated
+INFO  07:21:06 getAllUser API is initiated
+INFO  07:21:20 getAllUser API is initiated
+INFO  07:21:29 getAllUser API is initiated
+INFO  07:22:24 Now listening on: http://localhost:5003
+INFO  07:22:24 Application started. Press Ctrl+C to shut down.
+INFO  07:22:24 Hosting environment: Development
+INFO  07:22:24 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:22:48 getAllUser API is initiated
+INFO  07:24:22 getAllUser API is initiated
+INFO  07:24:36 getAllUser API is initiated
+INFO  07:25:21 Now listening on: http://localhost:5003
+INFO  07:25:21 Application started. Press Ctrl+C to shut down.
+INFO  07:25:21 Hosting environment: Development
+INFO  07:25:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:29:29 Now listening on: http://localhost:5003
+INFO  07:29:30 Application started. Press Ctrl+C to shut down.
+INFO  07:29:30 Hosting environment: Development
+INFO  07:29:30 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:34:34 Now listening on: http://localhost:5003
+INFO  07:34:34 Application started. Press Ctrl+C to shut down.
+INFO  07:34:34 Hosting environment: Development
+INFO  07:34:34 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  07:39:24 Now listening on: http://localhost:5003
+INFO  07:39:24 Application started. Press Ctrl+C to shut down.
+INFO  07:39:25 Hosting environment: Development
+INFO  07:39:26 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:01:39 Now listening on: http://localhost:5003
+INFO  08:01:39 Application started. Press Ctrl+C to shut down.
+INFO  08:01:39 Hosting environment: Development
+INFO  08:01:39 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:02:55 Now listening on: http://localhost:5003
+INFO  08:02:55 Application started. Press Ctrl+C to shut down.
+INFO  08:02:55 Hosting environment: Development
+INFO  08:02:55 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:05:27 Now listening on: http://localhost:5003
+INFO  08:05:27 Application started. Press Ctrl+C to shut down.
+INFO  08:05:27 Hosting environment: Development
+INFO  08:05:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:05:59 getAllUser API is initiated
+INFO  08:29:35 Now listening on: http://localhost:5003
+INFO  08:29:35 Application started. Press Ctrl+C to shut down.
+INFO  08:29:35 Hosting environment: Development
+INFO  08:29:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:38:35 Now listening on: http://localhost:5003
+INFO  08:38:35 Application started. Press Ctrl+C to shut down.
+INFO  08:38:35 Hosting environment: Development
+INFO  08:38:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:39:57 Now listening on: http://localhost:5003
+INFO  08:39:57 Application started. Press Ctrl+C to shut down.
+INFO  08:39:57 Hosting environment: Development
+INFO  08:39:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:43:00 Now listening on: http://localhost:5003
+INFO  08:43:00 Application started. Press Ctrl+C to shut down.
+INFO  08:43:00 Hosting environment: Development
+INFO  08:43:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:32:41 Now listening on: http://localhost:5003
+INFO  09:32:41 Application started. Press Ctrl+C to shut down.
+INFO  09:32:41 Hosting environment: Development
+INFO  09:32:41 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:33:25 getAllUser API is initiated
+INFO  09:18:57 Now listening on: http://localhost:5003
+INFO  09:18:57 Application started. Press Ctrl+C to shut down.
+INFO  09:18:57 Hosting environment: Development
+INFO  09:18:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:52:00 Now listening on: http://localhost:5003
+INFO  09:52:00 Application started. Press Ctrl+C to shut down.
+INFO  09:52:00 Hosting environment: Development
+INFO  09:52:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:16:53 Now listening on: http://localhost:5003
+INFO  10:16:53 Application started. Press Ctrl+C to shut down.
+INFO  10:16:53 Hosting environment: Development
+INFO  10:16:53 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:11:50 Now listening on: http://localhost:5003
+INFO  11:11:50 Application started. Press Ctrl+C to shut down.
+INFO  11:11:50 Hosting environment: Development
+INFO  11:11:50 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:14:35 Now listening on: http://localhost:5003
+INFO  11:14:35 Application started. Press Ctrl+C to shut down.
+INFO  11:14:35 Hosting environment: Development
+INFO  11:14:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:55:57 Now listening on: http://localhost:5003
+INFO  11:55:57 Application started. Press Ctrl+C to shut down.
+INFO  11:55:57 Hosting environment: Development
+INFO  11:55:57 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:06:44 Now listening on: http://localhost:5003
+INFO  12:06:44 Application started. Press Ctrl+C to shut down.
+INFO  12:06:45 Hosting environment: Development
+INFO  12:06:45 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:13:21 Now listening on: http://localhost:5003
+INFO  12:13:21 Application started. Press Ctrl+C to shut down.
+INFO  12:13:22 Hosting environment: Development
+INFO  12:13:22 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:17:16 Now listening on: http://localhost:5003
+INFO  12:17:16 Application started. Press Ctrl+C to shut down.
+INFO  12:17:16 Hosting environment: Development
+INFO  12:17:16 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:37:51 Now listening on: http://localhost:5003
+INFO  12:37:51 Application started. Press Ctrl+C to shut down.
+INFO  12:37:51 Hosting environment: Development
+INFO  12:37:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:41:23 Now listening on: http://localhost:5003
+INFO  12:41:23 Application started. Press Ctrl+C to shut down.
+INFO  12:41:23 Hosting environment: Development
+INFO  12:41:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:46:13 Now listening on: http://localhost:5003
+INFO  12:46:13 Application started. Press Ctrl+C to shut down.
+INFO  12:46:13 Hosting environment: Development
+INFO  12:46:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:52:09 Now listening on: http://localhost:5003
+INFO  12:52:09 Application started. Press Ctrl+C to shut down.
+INFO  12:52:09 Hosting environment: Development
+INFO  12:52:09 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:05:14 Now listening on: http://localhost:5003
+INFO  01:05:14 Application started. Press Ctrl+C to shut down.
+INFO  01:05:14 Hosting environment: Development
+INFO  01:05:14 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:09:00 Now listening on: http://localhost:5003
+INFO  01:09:00 Application started. Press Ctrl+C to shut down.
+INFO  01:09:00 Hosting environment: Development
+INFO  01:09:00 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:28:25 Now listening on: http://localhost:5003
+INFO  02:28:25 Application started. Press Ctrl+C to shut down.
+INFO  02:28:25 Hosting environment: Development
+INFO  02:28:25 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:52:46 Now listening on: http://localhost:5003
+INFO  02:52:46 Application started. Press Ctrl+C to shut down.
+INFO  02:52:46 Hosting environment: Development
+INFO  02:52:47 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:35:20 Now listening on: http://localhost:5003
+INFO  03:35:20 Application started. Press Ctrl+C to shut down.
+INFO  03:35:20 Hosting environment: Development
+INFO  03:35:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:46:13 Now listening on: http://localhost:5003
+INFO  03:46:13 Application started. Press Ctrl+C to shut down.
+INFO  03:46:13 Hosting environment: Development
+INFO  03:46:13 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+<<<<<<< Updated upstream
+INFO  05:23:48 Now listening on: http://localhost:5003
+INFO  05:23:48 Application started. Press Ctrl+C to shut down.
+INFO  05:23:48 Hosting environment: Development
+INFO  05:23:48 Content root path: C:\Users\KIIT\Desktop\CTS_Project\Retail-Banking-System\UserMicroService
+INFO  05:24:26 getAllUser API is initiated
+ERROR 05:24:30 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 05:24:30 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.237' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:f876c622-d5eb-4694-a7ab-020fcc5529a3
+Error Number:40615,State:1,Class:14
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.237' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:f876c622-d5eb-4694-a7ab-020fcc5529a3
+Error Number:40615,State:1,Class:14
+ERROR 05:24:30 Cannot open server 'retail-banking-system' requested by the login. Client with IP address '45.250.244.237' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+<<<<<<< HEAD
+=======
+INFO  04:07:09 Now listening on: http://localhost:5003
+INFO  04:07:09 Application started. Press Ctrl+C to shut down.
+INFO  04:07:09 Hosting environment: Development
+INFO  04:07:09 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:07:39 getAllUser API is initiated
+INFO  04:21:17 Now listening on: http://localhost:5003
+INFO  04:21:17 Application started. Press Ctrl+C to shut down.
+INFO  04:21:17 Hosting environment: Development
+INFO  04:21:17 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:00:27 Now listening on: http://localhost:5003
+INFO  05:00:27 Application started. Press Ctrl+C to shut down.
+INFO  05:00:27 Hosting environment: Development
+INFO  05:00:28 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:01:04 getAllUser API is initiated
+INFO  09:33:18 Now listening on: http://localhost:5003
+INFO  09:33:18 Application started. Press Ctrl+C to shut down.
+INFO  09:33:18 Hosting environment: Development
+INFO  09:33:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:39:59 Now listening on: http://localhost:5003
+INFO  11:39:59 Application started. Press Ctrl+C to shut down.
+INFO  11:39:59 Hosting environment: Development
+INFO  11:39:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:04:47 Now listening on: http://localhost:5003
+INFO  12:04:47 Application started. Press Ctrl+C to shut down.
+INFO  12:04:47 Hosting environment: Development
+INFO  12:04:47 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  08:52:49 Now listening on: http://localhost:5003
+INFO  08:52:49 Application started. Press Ctrl+C to shut down.
+INFO  08:52:49 Hosting environment: Development
+INFO  08:52:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:29:35 Now listening on: http://localhost:5003
+INFO  09:29:36 Application started. Press Ctrl+C to shut down.
+INFO  09:29:36 Hosting environment: Development
+INFO  09:29:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:32:24 Now listening on: http://localhost:5003
+INFO  09:32:24 Application started. Press Ctrl+C to shut down.
+INFO  09:32:24 Hosting environment: Development
+INFO  09:32:25 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:34:16 getAllUser API is initiated
+INFO  09:35:29 Now listening on: http://localhost:5003
+INFO  09:35:29 Application started. Press Ctrl+C to shut down.
+INFO  09:35:29 Hosting environment: Development
+INFO  09:35:29 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:35:49 getAllUser API is initiated
+INFO  09:37:20 Now listening on: http://localhost:5003
+INFO  09:37:20 Application started. Press Ctrl+C to shut down.
+INFO  09:37:20 Hosting environment: Development
+INFO  09:37:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:37:41 getAllUser API is initiated
+INFO  09:38:17 getAllUser API is initiated
+INFO  09:40:14 getAllUser API is initiated
+INFO  09:47:56 getAllUser API is initiated
+INFO  09:48:36 getAllUser API is initiated
+INFO  09:49:07 getAllUser API is initiated
+INFO  09:49:17 getAllUser API is initiated
+INFO  09:49:24 getAllUser API is initiated
+INFO  09:49:46 getAllUser API is initiated
+INFO  09:56:08 Now listening on: http://localhost:5003
+INFO  09:56:08 Application started. Press Ctrl+C to shut down.
+INFO  09:56:08 Hosting environment: Development
+INFO  09:56:08 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:11:30 Now listening on: http://localhost:5003
+INFO  10:11:31 Application started. Press Ctrl+C to shut down.
+INFO  10:11:31 Hosting environment: Development
+INFO  10:11:31 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+>>>>>>> Stashed changes
+INFO  11:16:27 Now listening on: http://localhost:5003
+INFO  11:16:27 Application started. Press Ctrl+C to shut down.
+INFO  11:16:27 Hosting environment: Development
+INFO  11:16:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:16:50 getAllUser API is initiated
+ERROR 11:16:54 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 11:16:54 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.75.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:02134c50-fa5a-444d-8ff9-fd5c2b667ddc
+Error Number:40615,State:1,Class:14
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.75.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:02134c50-fa5a-444d-8ff9-fd5c2b667ddc
+Error Number:40615,State:1,Class:14
+ERROR 11:16:54 Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.75.167' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+INFO  11:23:14 Now listening on: http://localhost:5003
+INFO  11:23:14 Application started. Press Ctrl+C to shut down.
+INFO  11:23:14 Hosting environment: Development
+INFO  11:23:14 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:23:38 getAllUser API is initiated
+INFO  11:24:44 getAllUser API is initiated
+INFO  11:25:37 Now listening on: http://localhost:5003
+INFO  11:25:37 Application started. Press Ctrl+C to shut down.
+INFO  11:25:37 Hosting environment: Development
+INFO  11:25:38 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:26:00 getAllUser API is initiated
+INFO  11:27:24 getAllUser API is initiated
+INFO  11:27:32 getAllUser API is initiated
+INFO  11:31:41 Now listening on: http://localhost:5003
+INFO  11:31:41 Application started. Press Ctrl+C to shut down.
+INFO  11:31:41 Hosting environment: Development
+INFO  11:31:41 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:35:27 Now listening on: http://localhost:5003
+INFO  11:35:27 Application started. Press Ctrl+C to shut down.
+INFO  11:35:27 Hosting environment: Development
+INFO  11:35:27 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:40:16 getAllUser API is initiated
+INFO  11:49:06 Now listening on: http://localhost:5003
+INFO  11:49:06 Application started. Press Ctrl+C to shut down.
+INFO  11:49:06 Hosting environment: Development
+INFO  11:49:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:01:08 Now listening on: http://localhost:5003
+INFO  12:01:08 Application started. Press Ctrl+C to shut down.
+INFO  12:01:08 Hosting environment: Development
+INFO  12:01:08 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:10:07 Now listening on: http://localhost:5003
+INFO  12:10:07 Application started. Press Ctrl+C to shut down.
+INFO  12:10:07 Hosting environment: Development
+INFO  12:10:07 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:31:51 Now listening on: http://localhost:5003
+INFO  12:31:51 Application started. Press Ctrl+C to shut down.
+INFO  12:31:51 Hosting environment: Development
+INFO  12:31:51 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:53:20 Now listening on: http://localhost:5003
+INFO  12:53:20 Application started. Press Ctrl+C to shut down.
+INFO  12:53:20 Hosting environment: Development
+INFO  12:53:20 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:03:06 Now listening on: http://localhost:5003
+INFO  01:03:06 Application started. Press Ctrl+C to shut down.
+INFO  01:03:06 Hosting environment: Development
+INFO  01:03:06 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:05:23 Now listening on: http://localhost:5003
+INFO  01:05:23 Application started. Press Ctrl+C to shut down.
+INFO  01:05:23 Hosting environment: Development
+INFO  01:05:23 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:09:19 Now listening on: http://localhost:5003
+INFO  01:09:19 Application started. Press Ctrl+C to shut down.
+INFO  01:09:19 Hosting environment: Development
+INFO  01:09:19 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:13:30 Now listening on: http://localhost:5003
+INFO  01:13:30 Application started. Press Ctrl+C to shut down.
+INFO  01:13:30 Hosting environment: Development
+INFO  01:13:30 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:25:21 Now listening on: http://localhost:5003
+INFO  01:25:21 Application started. Press Ctrl+C to shut down.
+INFO  01:25:21 Hosting environment: Development
+INFO  01:25:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:25:43 getAllUser API is initiated
+=======
+INFO  12:32:17 Now listening on: http://localhost:5003
+INFO  12:32:17 Application started. Press Ctrl+C to shut down.
+INFO  12:32:17 Hosting environment: Development
+INFO  12:32:17 Content root path: D:\CTS Project\V8\Retail-Banking-System\UserMicroService
+INFO  12:37:03 Now listening on: http://localhost:5003
+INFO  12:37:03 Application started. Press Ctrl+C to shut down.
+INFO  12:37:03 Hosting environment: Development
+INFO  12:37:03 Content root path: D:\CTS Project\V8\Retail-Banking-System\UserMicroService
+INFO  12:38:16 Now listening on: http://localhost:5003
+INFO  12:38:17 Application started. Press Ctrl+C to shut down.
+INFO  12:38:17 Hosting environment: Development
+INFO  12:38:17 Content root path: D:\CTS Project\V8\Retail-Banking-System\UserMicroService
+INFO  12:39:37 getAllUser API is initiated
+INFO  12:39:59 getAllUser API is initiated
+INFO  12:40:01 getAllUser API is initiated
+INFO  12:40:08 getAllUser API is initiated
+INFO  12:40:18 getAllUser API is initiated
+INFO  12:42:21 getAllUser API is initiated
+INFO  01:12:52 Now listening on: http://localhost:5003
+INFO  01:12:52 Application started. Press Ctrl+C to shut down.
+INFO  01:12:52 Hosting environment: Development
+INFO  01:12:52 Content root path: D:\CTS Project\V8\Retail-Banking-System\UserMicroService
+INFO  01:14:36 Now listening on: http://localhost:5003
+INFO  01:14:36 Application started. Press Ctrl+C to shut down.
+INFO  01:14:36 Hosting environment: Development
+INFO  01:14:36 Content root path: D:\CTS Project\V8\Retail-Banking-System\UserMicroService
+>>>>>>> 0b9663fdc702ccc92a13e087fcd2fcc481dae4d6
+INFO  02:17:10 Now listening on: http://localhost:5003
+INFO  02:17:10 Application started. Press Ctrl+C to shut down.
+INFO  02:17:10 Hosting environment: Development
+INFO  02:17:10 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:29:33 Now listening on: http://localhost:5003
+INFO  02:29:33 Application started. Press Ctrl+C to shut down.
+INFO  02:29:33 Hosting environment: Development
+INFO  02:29:33 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:44:15 Now listening on: http://localhost:5003
+INFO  02:44:15 Application started. Press Ctrl+C to shut down.
+INFO  02:44:15 Hosting environment: Development
+INFO  02:44:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:14:40 Now listening on: http://localhost:5003
+INFO  03:14:41 Application started. Press Ctrl+C to shut down.
+INFO  03:14:41 Hosting environment: Development
+INFO  03:14:41 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:10:40 Now listening on: http://localhost:5003
+INFO  04:10:40 Application started. Press Ctrl+C to shut down.
+INFO  04:10:40 Hosting environment: Development
+INFO  04:10:40 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:18:55 Now listening on: http://localhost:5003
+INFO  04:18:56 Application started. Press Ctrl+C to shut down.
+INFO  04:18:56 Hosting environment: Development
+INFO  04:18:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:23:21 Now listening on: http://localhost:5003
+INFO  04:23:21 Application started. Press Ctrl+C to shut down.
+INFO  04:23:21 Hosting environment: Development
+INFO  04:23:21 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:25:38 Now listening on: http://localhost:5003
+INFO  04:25:38 Application started. Press Ctrl+C to shut down.
+INFO  04:25:38 Hosting environment: Development
+INFO  04:25:38 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:31:05 Now listening on: http://localhost:5003
+INFO  04:31:05 Application started. Press Ctrl+C to shut down.
+INFO  04:31:05 Hosting environment: Development
+INFO  04:31:05 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:49:35 Now listening on: http://localhost:5003
+INFO  04:49:35 Application started. Press Ctrl+C to shut down.
+INFO  04:49:35 Hosting environment: Development
+INFO  04:49:35 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:51:59 Now listening on: http://localhost:5003
+INFO  04:51:59 Application started. Press Ctrl+C to shut down.
+INFO  04:51:59 Hosting environment: Development
+INFO  04:51:59 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:57:49 Now listening on: http://localhost:5003
+INFO  04:57:49 Application started. Press Ctrl+C to shut down.
+INFO  04:57:49 Hosting environment: Development
+INFO  04:57:49 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:13:02 Now listening on: http://localhost:5003
+INFO  05:13:02 Application started. Press Ctrl+C to shut down.
+INFO  05:13:02 Hosting environment: Development
+INFO  05:13:02 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:18:18 Now listening on: http://localhost:5003
+INFO  05:18:18 Application started. Press Ctrl+C to shut down.
+INFO  05:18:18 Hosting environment: Development
+INFO  05:18:18 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:19:38 Now listening on: http://localhost:5003
+INFO  05:19:38 Application started. Press Ctrl+C to shut down.
+INFO  05:19:38 Hosting environment: Development
+INFO  05:19:38 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:29:15 Now listening on: http://localhost:5003
+INFO  05:29:15 Application started. Press Ctrl+C to shut down.
+INFO  05:29:15 Hosting environment: Development
+INFO  05:29:15 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:34:36 Now listening on: http://localhost:5003
+INFO  05:34:36 Application started. Press Ctrl+C to shut down.
+INFO  05:34:36 Hosting environment: Development
+INFO  05:34:36 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:35:00 getAllUser API is initiated
+INFO  10:44:58 Now listening on: http://localhost:5003
+INFO  10:44:58 Application started. Press Ctrl+C to shut down.
+INFO  10:44:58 Hosting environment: Development
+INFO  10:44:58 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:10:56 Now listening on: http://localhost:5003
+INFO  11:10:56 Application started. Press Ctrl+C to shut down.
+INFO  11:10:56 Hosting environment: Development
+INFO  11:10:56 Content root path: C:\Users\Kousik Sen\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:12:21 getAllUser API is initiated
+ERROR 11:12:26 An error occurred using the connection to database 'retail-banking-system' on server 'retail-banking-system.database.windows.net'.
+ERROR 11:12:26 An exception occurred while iterating over the results of a query for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.69.144' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:bf05f38a-390f-4197-a95a-8102f874cddd
+Error Number:40615,State:1,Class:14
+Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.69.144' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CheckPoolBlockingPeriod(Exception e)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:bf05f38a-390f-4197-a95a-8102f874cddd
+Error Number:40615,State:1,Class:14
+ERROR 11:12:26 Cannot open server 'retail-banking-system' requested by the login. Client with IP address '47.11.69.144' is not allowed to access the server.  To enable access, use the Windows Azure Management Portal or run sp_set_firewall_rule on the master database to create a firewall rule for this IP address or address range.  It may take up to five minutes for this change to take effect.
+INFO  09:54:10 Now listening on: http://localhost:5003
+INFO  09:54:10 Application started. Press Ctrl+C to shut down.
+INFO  09:54:10 Hosting environment: Development
+INFO  09:54:10 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:09:34 Now listening on: http://localhost:5003
+INFO  10:09:34 Application started. Press Ctrl+C to shut down.
+INFO  10:09:34 Hosting environment: Development
+INFO  10:09:34 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:58:28 Now listening on: http://localhost:5003
+INFO  10:58:28 Application started. Press Ctrl+C to shut down.
+INFO  10:58:28 Hosting environment: Development
+INFO  10:58:28 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:28:12 Now listening on: http://localhost:5003
+INFO  11:28:12 Application started. Press Ctrl+C to shut down.
+INFO  11:28:12 Hosting environment: Development
+INFO  11:28:12 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:31:13 Now listening on: http://localhost:5003
+INFO  11:31:13 Application started. Press Ctrl+C to shut down.
+INFO  11:31:13 Hosting environment: Development
+INFO  11:31:13 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:33:51 getAllUser API is initiated
+INFO  11:43:27 Now listening on: http://localhost:5003
+INFO  11:43:27 Application started. Press Ctrl+C to shut down.
+INFO  11:43:27 Hosting environment: Development
+INFO  11:43:27 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:46:59 Now listening on: http://localhost:5003
+INFO  11:46:59 Application started. Press Ctrl+C to shut down.
+INFO  11:46:59 Hosting environment: Development
+INFO  11:46:59 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:48:36 getAllUser API is initiated
+INFO  12:38:43 Now listening on: http://localhost:5003
+INFO  12:38:43 Application started. Press Ctrl+C to shut down.
+INFO  12:38:43 Hosting environment: Development
+INFO  12:38:43 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:53:39 Now listening on: http://localhost:5003
+INFO  02:53:39 Application started. Press Ctrl+C to shut down.
+INFO  02:53:39 Hosting environment: Development
+INFO  02:53:39 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:05:46 Now listening on: http://localhost:5003
+INFO  03:05:46 Application started. Press Ctrl+C to shut down.
+INFO  03:05:46 Hosting environment: Development
+INFO  03:05:46 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  03:39:21 Now listening on: http://localhost:5003
+INFO  03:39:21 Application started. Press Ctrl+C to shut down.
+INFO  03:39:21 Hosting environment: Development
+INFO  03:39:21 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:00:42 Now listening on: http://localhost:5003
+INFO  05:00:42 Application started. Press Ctrl+C to shut down.
+INFO  05:00:42 Hosting environment: Development
+INFO  05:00:42 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:03:22 Now listening on: http://localhost:5003
+INFO  05:03:22 Application started. Press Ctrl+C to shut down.
+INFO  05:03:22 Hosting environment: Development
+INFO  05:03:22 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:05:14 getAllUser API is initiated
+INFO  05:13:34 getAllUser API is initiated
+INFO  10:56:49 Now listening on: http://localhost:5003
+INFO  10:56:49 Application started. Press Ctrl+C to shut down.
+INFO  10:56:49 Hosting environment: Development
+INFO  10:56:49 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:11:10 Now listening on: http://localhost:5003
+INFO  12:11:11 Application started. Press Ctrl+C to shut down.
+INFO  12:11:11 Hosting environment: Development
+INFO  12:11:11 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:21:34 getAllUser API is initiated
+INFO  12:26:36 Now listening on: http://localhost:5003
+INFO  12:26:36 Application started. Press Ctrl+C to shut down.
+INFO  12:26:36 Hosting environment: Development
+INFO  12:26:36 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:55:52 Now listening on: http://localhost:5003
+INFO  12:55:52 Application started. Press Ctrl+C to shut down.
+INFO  12:55:52 Hosting environment: Development
+INFO  12:55:52 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:56:23 getAllUser API is initiated
+INFO  01:02:04 Now listening on: http://localhost:5003
+INFO  01:02:04 Application started. Press Ctrl+C to shut down.
+INFO  01:02:04 Hosting environment: Development
+INFO  01:02:04 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  01:06:12 Now listening on: http://localhost:5003
+INFO  01:06:12 Application started. Press Ctrl+C to shut down.
+INFO  01:06:12 Hosting environment: Development
+INFO  01:06:12 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:31:35 Now listening on: http://localhost:5003
+INFO  02:31:35 Application started. Press Ctrl+C to shut down.
+INFO  02:31:35 Hosting environment: Development
+INFO  02:31:35 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:34:13 Now listening on: http://localhost:5003
+INFO  04:34:13 Application started. Press Ctrl+C to shut down.
+INFO  04:34:13 Hosting environment: Development
+INFO  04:34:13 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:39:59 Now listening on: http://localhost:5003
+INFO  04:39:59 Application started. Press Ctrl+C to shut down.
+INFO  04:39:59 Hosting environment: Development
+INFO  04:39:59 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:40:44 getAllUser API is initiated
+INFO  04:44:38 Now listening on: http://localhost:5003
+INFO  04:44:38 Application started. Press Ctrl+C to shut down.
+INFO  04:44:38 Hosting environment: Development
+INFO  04:44:38 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  04:50:07 Now listening on: http://localhost:5003
+INFO  04:50:07 Application started. Press Ctrl+C to shut down.
+INFO  04:50:07 Hosting environment: Development
+INFO  04:50:07 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:14:44 Now listening on: http://localhost:5003
+INFO  05:14:44 Application started. Press Ctrl+C to shut down.
+INFO  05:14:44 Hosting environment: Development
+INFO  05:14:44 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:36:17 Now listening on: http://localhost:5003
+INFO  05:36:17 Application started. Press Ctrl+C to shut down.
+INFO  05:36:17 Hosting environment: Development
+INFO  05:36:18 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:37:48 getAllUser API is initiated
+INFO  02:42:38 Now listening on: http://localhost:5003
+INFO  02:42:39 Application started. Press Ctrl+C to shut down.
+INFO  02:42:39 Hosting environment: Development
+INFO  02:42:39 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:45:48 Now listening on: http://localhost:5003
+INFO  02:45:48 Application started. Press Ctrl+C to shut down.
+INFO  02:45:48 Hosting environment: Development
+INFO  02:45:48 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  02:46:26 getAllUser API is initiated
+INFO  09:02:29 Now listening on: http://localhost:5003
+INFO  09:02:29 Application started. Press Ctrl+C to shut down.
+INFO  09:02:29 Hosting environment: Development
+INFO  09:02:29 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:03:05 getAllUser API is initiated
+INFO  09:15:10 Now listening on: http://localhost:5003
+INFO  09:15:10 Application started. Press Ctrl+C to shut down.
+INFO  09:15:10 Hosting environment: Development
+INFO  09:15:10 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:27:44 Now listening on: http://localhost:5003
+INFO  09:27:44 Application started. Press Ctrl+C to shut down.
+INFO  09:27:44 Hosting environment: Development
+INFO  09:27:44 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:50:18 Now listening on: http://localhost:5003
+INFO  09:50:18 Application started. Press Ctrl+C to shut down.
+INFO  09:50:18 Hosting environment: Development
+INFO  09:50:18 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  09:57:55 Now listening on: http://localhost:5003
+INFO  09:57:55 Application started. Press Ctrl+C to shut down.
+INFO  09:57:55 Hosting environment: Development
+INFO  09:57:55 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:19:02 Now listening on: http://localhost:5003
+INFO  10:19:02 Application started. Press Ctrl+C to shut down.
+INFO  10:19:02 Hosting environment: Development
+INFO  10:19:02 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:21:15 Now listening on: http://localhost:5003
+INFO  10:21:15 Application started. Press Ctrl+C to shut down.
+INFO  10:21:15 Hosting environment: Development
+INFO  10:21:15 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:39:41 Now listening on: http://localhost:5003
+INFO  10:39:41 Application started. Press Ctrl+C to shut down.
+INFO  10:39:41 Hosting environment: Development
+INFO  10:39:41 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  10:56:31 Now listening on: http://localhost:5003
+INFO  10:56:31 Application started. Press Ctrl+C to shut down.
+INFO  10:56:31 Hosting environment: Development
+INFO  10:56:31 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  11:12:36 Now listening on: http://localhost:5003
+INFO  11:12:36 Application started. Press Ctrl+C to shut down.
+INFO  11:12:36 Hosting environment: Development
+INFO  11:12:36 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:22:16 Now listening on: http://localhost:5003
+INFO  12:22:16 Application started. Press Ctrl+C to shut down.
+INFO  12:22:16 Hosting environment: Development
+INFO  12:22:16 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  12:22:46 getAllUser API is initiated
+INFO  05:54:55 Now listening on: http://localhost:5003
+INFO  05:54:56 Application started. Press Ctrl+C to shut down.
+INFO  05:54:56 Hosting environment: Development
+INFO  05:54:56 Content root path: C:\Users\934754\OneDrive - Cognizant\Desktop\Retail-Banking-System\UserMicroService
+INFO  05:56:23 getAllUser API is initiated
+INFO  10:36:53 Now listening on: http://localhost:5003
+INFO  10:36:53 Application started. Press Ctrl+C to shut down.
+INFO  10:36:53 Hosting environment: Development
+INFO  10:36:53 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  10:37:18 getAllUser API is initiated
+INFO  10:47:57 Now listening on: http://localhost:5003
+INFO  10:47:57 Application started. Press Ctrl+C to shut down.
+INFO  10:47:57 Hosting environment: Development
+INFO  10:47:57 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  10:48:17 getAllUser API is initiated
+INFO  09:37:32 Now listening on: http://localhost:5003
+INFO  09:37:32 Application started. Press Ctrl+C to shut down.
+INFO  09:37:32 Hosting environment: Development
+INFO  09:37:32 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:42:58 Now listening on: http://localhost:5003
+INFO  09:42:58 Application started. Press Ctrl+C to shut down.
+INFO  09:42:58 Hosting environment: Development
+INFO  09:42:58 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:51:23 Now listening on: http://localhost:5003
+INFO  09:51:23 Application started. Press Ctrl+C to shut down.
+INFO  09:51:23 Hosting environment: Development
+INFO  09:51:23 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:07:54 Now listening on: http://localhost:5003
+INFO  12:07:54 Application started. Press Ctrl+C to shut down.
+INFO  12:07:54 Hosting environment: Development
+INFO  12:07:54 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:08:25 getAllUser API is initiated
+INFO  12:11:04 Now listening on: http://localhost:5003
+INFO  12:11:04 Application started. Press Ctrl+C to shut down.
+INFO  12:11:04 Hosting environment: Development
+INFO  12:11:05 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:11:25 getAllUser API is initiated
+INFO  12:16:29 Now listening on: http://localhost:5003
+INFO  12:16:29 Application started. Press Ctrl+C to shut down.
+INFO  12:16:29 Hosting environment: Development
+INFO  12:16:29 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:16:48 getAllUser API is initiated
+INFO  12:19:43 Now listening on: http://localhost:5003
+INFO  12:19:43 Application started. Press Ctrl+C to shut down.
+INFO  12:19:43 Hosting environment: Development
+INFO  12:19:43 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:19:59 getAllUser API is initiated
+INFO  12:37:52 Now listening on: http://localhost:5003
+INFO  12:37:52 Application started. Press Ctrl+C to shut down.
+INFO  12:37:52 Hosting environment: Development
+INFO  12:37:52 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:38:07 getAllUser API is initiated
+INFO  12:38:22 getAllUser API is initiated
+INFO  12:38:36 getAllUser API is initiated
+ERROR 12:40:13 Failed executing DbCommand (64ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = Int32), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [UserCreds] ([CreatedBy], [CreatedOn], [CustomerId], [Password], [UserName], [UserType])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [UserID]
+FROM [UserCreds]
+WHERE @@ROWCOUNT = 1 AND [UserID] = scope_identity();
+ERROR 12:40:13 An exception occurred in the database while saving changes for context type 'UserMicroService.DBContext.UserContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserCreds_Customer_CustomerId". The conflict occurred in database "retail-banking-system", table "dbo.Customer", column 'CustomerId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f37afb2f-8e87-4f1e-b212-169f03f30ecb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_UserCreds_Customer_CustomerId". The conflict occurred in database "retail-banking-system", table "dbo.Customer", column 'CustomerId'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:f37afb2f-8e87-4f1e-b212-169f03f30ecb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+INFO  12:53:11 Now listening on: http://localhost:5003
+INFO  12:53:12 Application started. Press Ctrl+C to shut down.
+INFO  12:53:12 Hosting environment: Development
+INFO  12:53:12 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  12:53:50 getAllUser API is initiated
+INFO  07:59:40 Now listening on: http://localhost:5003
+INFO  07:59:40 Application started. Press Ctrl+C to shut down.
+INFO  07:59:40 Hosting environment: Development
+INFO  07:59:40 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  08:02:32 getAllUser API is initiated
+INFO  08:08:13 Now listening on: http://localhost:5003
+INFO  08:08:13 Application started. Press Ctrl+C to shut down.
+INFO  08:08:13 Hosting environment: Development
+INFO  08:08:13 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  08:08:39 getAllUser API is initiated
+INFO  08:20:05 Now listening on: http://localhost:5003
+INFO  08:20:05 Application started. Press Ctrl+C to shut down.
+INFO  08:20:05 Hosting environment: Development
+INFO  08:20:05 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  08:20:24 getAllUser API is initiated
+INFO  08:23:15 Now listening on: http://localhost:5003
+INFO  08:23:15 Application started. Press Ctrl+C to shut down.
+INFO  08:23:15 Hosting environment: Development
+INFO  08:23:15 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  08:23:36 getAllUser API is initiated
+INFO  08:42:42 getAllUser API is initiated
+INFO  08:57:02 Now listening on: http://localhost:5003
+INFO  08:57:02 Application started. Press Ctrl+C to shut down.
+INFO  08:57:02 Hosting environment: Development
+INFO  08:57:02 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  08:57:16 getAllUser API is initiated
+INFO  07:11:26 Now listening on: http://localhost:5003
+INFO  07:11:26 Application started. Press Ctrl+C to shut down.
+INFO  07:11:26 Hosting environment: Development
+INFO  07:11:26 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  07:11:39 getAllUser API is initiated
+INFO  07:21:28 Now listening on: http://localhost:5003
+INFO  07:21:28 Application started. Press Ctrl+C to shut down.
+INFO  07:21:28 Hosting environment: Development
+INFO  07:21:28 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  07:21:33 getAllUser API is initiated
+INFO  09:37:56 Now listening on: http://localhost:5003
+INFO  09:37:56 Application started. Press Ctrl+C to shut down.
+INFO  09:37:56 Hosting environment: Development
+INFO  09:37:56 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:38:12 getAllUser API is initiated
+INFO  10:53:18 Now listening on: http://localhost:5003
+INFO  10:53:18 Application started. Press Ctrl+C to shut down.
+INFO  10:53:18 Hosting environment: Development
+INFO  10:53:18 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  10:55:42 getAllUser API is initiated
+INFO  09:04:52 Now listening on: http://localhost:5003
+INFO  09:04:52 Application started. Press Ctrl+C to shut down.
+INFO  09:04:52 Hosting environment: Development
+INFO  09:04:52 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:05:02 getAllUser API is initiated
+INFO  09:10:41 Now listening on: http://localhost:5003
+INFO  09:10:41 Application started. Press Ctrl+C to shut down.
+INFO  09:10:41 Hosting environment: Development
+INFO  09:10:41 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:11:08 getAllUser API is initiated
+INFO  09:13:37 Now listening on: http://localhost:5003
+INFO  09:13:37 Application started. Press Ctrl+C to shut down.
+INFO  09:13:37 Hosting environment: Development
+INFO  09:13:37 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:13:53 getAllUser API is initiated
+INFO  09:21:00 Now listening on: http://localhost:5003
+INFO  09:21:00 Application started. Press Ctrl+C to shut down.
+INFO  09:21:00 Hosting environment: Development
+INFO  09:21:00 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:21:07 getAllUser API is initiated
+INFO  09:24:05 Now listening on: http://localhost:5003
+INFO  09:24:05 Application started. Press Ctrl+C to shut down.
+INFO  09:24:05 Hosting environment: Development
+INFO  09:24:05 Content root path: D:\[Kousik] Projects\Retail-Banking-System\Retail-Banking-System\UserMicroService
+INFO  09:24:42 getAllUser API is initiated
